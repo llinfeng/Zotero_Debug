@@ -1,0 +1,4242 @@
+Submit…
+
+Clear
+
+Submitted with Debug ID 📋
+
+[JavaScript Error: "Unexpected script body " {file: "chrome://zotero-better-bibtex/content/BetterBibTeX.js" line: 5462}]
+
+[JavaScript Error: "XML Parsing Error: not well-formed
+Location: moz-nullprincipal:{f8f7111e-c5f8-4b31-8bce-db3b2b827c54}
+
+[JavaScript Error: "XML Parsing Error: not well-formed
+Location: moz-nullprincipal:{f61dbb20-b0e4-42d1-b51e-121ae4231be7}
+Line Number 1, Column 1:" {file: "moz-nullprincipal:{f61dbb20-b0e4-42d1-b51e-121ae4231be7}" line: 1 column: 1 source: "@inproceedings{abraham2017,"}]
+
+[JavaScript Error: "XML Parsing Error: not well-formed
+Location: moz-nullprincipal:{3b2fe18f-8071-4f19-b95c-c597bcbb795c}
+Line Number 1, Column 1:" {file: "moz-nullprincipal:{3b2fe18f-8071-4f19-b95c-c597bcbb795c}" line: 1 column: 1 source: "@inproceedings{abraham2017,"}]
+
+[JavaScript Error: "Unexpected script body " {file: "chrome://zotero-better-bibtex/content/BetterBibTeX.js" line: 5462}]
+
+[JavaScript Error: "Unexpected script body " {file: "chrome://zotero-better-bibtex/content/BetterBibTeX.js" line: 5462}]
+
+[JavaScript Error: "Unexpected script body " {file: "chrome://zotero-better-bibtex/content/BetterBibTeX.js" line: 5462}]
+
+[JavaScript Error: "Unexpected script body " {file: "chrome://zotero-better-bibtex/content/BetterBibTeX.js" line: 5462}]
+
+[JavaScript Error: "Code promise is not resolved in noWait mode" {file: "chrome://zotero/content/xpcom/translation/translate.js" line: 1812}]
+
+[JavaScript Error: "this._translatorInfo is null" {file: "chrome://zotero/content/xpcom/translation/translate.js" line: 1370}]
+
+[JavaScript Error: "Code promise is not resolved in noWait mode" {file: "chrome://zotero/content/xpcom/translation/translate.js" line: 1812}]
+
+[JavaScript Error: "Unexpected script body " {file: "chrome://zotero-better-bibtex/content/BetterBibTeX.js" line: 5462}]
+
+[JavaScript Error: "Unexpected script body " {file: "chrome://zotero-better-bibtex/content/BetterBibTeX.js" line: 5462}]
+
+[JavaScript Error: "Unexpected script body " {file: "chrome://zotero-better-bibtex/content/BetterBibTeX.js" line: 5462}]
+
+[JavaScript Error: "Unexpected script body " {file: "chrome://zotero-better-bibtex/content/BetterBibTeX.js" line: 5462}]
+
+[JavaScript Error: "Unexpected script body " {file: "chrome://zotero-better-bibtex/content/BetterBibTeX.js" line: 5462}]
+
+[JavaScript Error: "Unexpected script body " {file: "chrome://zotero-better-bibtex/content/BetterBibTeX.js" line: 5462}]
+
+[JavaScript Error: "Unexpected script body " {file: "chrome://zotero-better-bibtex/content/BetterBibTeX.js" line: 5462}]
+
+[JavaScript Error: "Unexpected script body " {file: "chrome://zotero-better-bibtex/content/BetterBibTeX.js" line: 5462}]
+
+[JavaScript Error: "Unexpected script body " {file: "chrome://zotero-better-bibtex/content/BetterBibTeX.js" line: 5462}]
+
+[JavaScript Error: "Unexpected script body " {file: "chrome://zotero-better-bibtex/content/BetterBibTeX.js" line: 5462}]
+
+[JavaScript Error: "Unexpected script body " {file: "chrome://zotero-better-bibtex/content/BetterBibTeX.js" line: 5462}]
+
+[JavaScript Error: "Unexpected script body " {file: "chrome://zotero-better-bibtex/content/BetterBibTeX.js" line: 5462}]
+
+[JavaScript Error: "Unexpected script body " {file: "chrome://zotero-better-bibtex/content/BetterBibTeX.js" line: 5462}]
+
+[JavaScript Error: "Unexpected script body " {file: "chrome://zotero-better-bibtex/content/BetterBibTeX.js" line: 5462}]
+
+version => 5.0.54, platform => Win32, oscpu => Windows NT 10.0; WOW64, locale => en-US, appName => Zotero, appVersion => 5.0.54, extensions => ZotFile (5.0.8, extension), Zotero Better Bib(La)Tex (5.0.170, extension), Zotero LibreOffice Integration (5.0.14.SA.5.0.54, extension), Zotero Word for Windows Integration (5.0.8.SA.5.0.54, extension), Shockwave Flash (30.0.0.134, plugin)
+
+(3)(+0000000): BBT: loading content/Preferences.ts
+
+(3)(+0000000): BBT: loaded content/Preferences.ts
+
+(3)(+0000086): {better-bibtex 32122 +117962}
+
+(3)(+0000000): {better-bibtex 32123 +0}
+
+(3)(+0000000): {better-bibtex 32124 +0}
+
+(3)(+0000004): {better-bibtex 32125 +4}
+
+(3)(+0000000): {better-bibtex 32126 +0}
+
+(3)(+0000002): {better-bibtex 32127 +2}
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 32128 +2}
+
+(3)(+0000000): {better-bibtex 32129 +0}
+
+(3)(+0000000): {better-bibtex 32130 +0}
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000002): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 32131 +2}
+
+(3)(+0000998): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 32132 +1000}
+
+(3)(+0000494): {better-bibtex 32133 +494}
+
+(3)(+0000002): {better-bibtex 32134 +2}
+
+(3)(+0000000): {better-bibtex 32135 +0}
+
+(3)(+0000000): {better-bibtex 32136 +0}
+
+(3)(+0000000): {better-bibtex 32137 +0}
+
+(3)(+0000000): {better-bibtex 32138 +0}
+
+(3)(+0000502): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 32139 +502}
+
+(3)(+0000010): {better-bibtex 32140 +10}
+
+(3)(+0000000): {better-bibtex 32141 +0}
+
+(3)(+0000000): {better-bibtex 32142 +0}
+
+(3)(+0000000): {better-bibtex 32143 +0}
+
+(3)(+0000002): {better-bibtex 32144 +2}
+
+(3)(+0000000): {better-bibtex 32145 +0}
+
+(3)(+0000184): {better-bibtex 32146 +184}
+
+(3)(+0000000): {better-bibtex 32147 +0}
+
+(3)(+0000000): {better-bibtex 32148 +0}
+
+(3)(+0000000): {better-bibtex 32149 +0}
+
+(3)(+0000000): {better-bibtex 32150 +0}
+
+(3)(+0000000): {better-bibtex 32151 +0}
+
+(3)(+0000050): {better-bibtex 32152 +50}
+
+(3)(+0000002): {better-bibtex 32153 +2}
+
+(3)(+0000012): {better-bibtex 32154 +12}
+
+(3)(+0000000): {better-bibtex 32155 +0}
+
+(3)(+0000002): {better-bibtex 32156 +2}
+
+(3)(+0000000): {better-bibtex 32157 +0}
+
+(3)(+0000014): {better-bibtex 32158 +14}
+
+(3)(+0000000): {better-bibtex 32159 +0}
+
+(3)(+0000014): {better-bibtex 32160 +14}
+
+(3)(+0000000): {better-bibtex 32161 +0}
+
+(3)(+0000022): {better-bibtex 32162 +22}
+
+(3)(+0000000): {better-bibtex 32163 +0}
+
+(3)(+0000006): {better-bibtex 32164 +6}
+
+(3)(+0000000): {better-bibtex 32165 +0}
+
+(3)(+0000016): {better-bibtex 32166 +16}
+
+(3)(+0000000): {better-bibtex 32167 +0}
+
+(3)(+0000014): {better-bibtex 32168 +14}
+
+(3)(+0000000): {better-bibtex 32169 +0}
+
+(3)(+0000014): {better-bibtex 32170 +14}
+
+(3)(+0000000): {better-bibtex 32171 +0}
+
+(3)(+0000000): {better-bibtex 32172 +0}
+
+(3)(+0000000): {better-bibtex 32173 +0}
+
+(3)(+0000002): {better-bibtex 32174 +2}
+
+(3)(+0000000): {better-bibtex 32175 +0}
+
+(3)(+0000022): {better-bibtex 32176 +22}
+
+(3)(+0000000): {better-bibtex 32177 +0}
+
+(3)(+0000014): {better-bibtex 32178 +14}
+
+(3)(+0000000): {better-bibtex 32179 +0}
+
+(3)(+0000014): {better-bibtex 32180 +14}
+
+(3)(+0000000): {better-bibtex 32181 +0}
+
+(3)(+0000024): {better-bibtex 32182 +24}
+
+(3)(+0000000): {better-bibtex 32183 +0}
+
+(3)(+0000012): {better-bibtex 32184 +12}
+
+(3)(+0000000): {better-bibtex 32185 +0}
+
+(3)(+0000000): {better-bibtex 32186 +0}
+
+(3)(+0000016): {better-bibtex 32187 +16}
+
+(3)(+0000000): {better-bibtex 32188 +0}
+
+(3)(+0000000): {better-bibtex 32189 +0}
+
+(3)(+0000030): {better-bibtex 32190 +30}
+
+(3)(+0000000): {better-bibtex 32191 +0}
+
+(3)(+0000000): {better-bibtex 32192 +0}
+
+(3)(+0000012): {better-bibtex 32193 +12}
+
+(3)(+0000000): {better-bibtex 32194 +0}
+
+(3)(+0000000): {better-bibtex 32195 +0}
+
+(3)(+0000016): {better-bibtex 32196 +16}
+
+(3)(+0000000): {better-bibtex 32197 +0}
+
+(3)(+0000000): {better-bibtex 32198 +0}
+
+(3)(+0000030): {better-bibtex 32199 +30}
+
+(3)(+0000000): {better-bibtex 32200 +0}
+
+(3)(+0000000): {better-bibtex 32201 +0}
+
+(3)(+0000024): {better-bibtex 32202 +24}
+
+(3)(+0000000): {better-bibtex 32203 +0}
+
+(3)(+0000000): {better-bibtex 32204 +0}
+
+(3)(+0000036): {better-bibtex 32205 +36}
+
+(3)(+0000000): {better-bibtex 32206 +0}
+
+(3)(+0000000): {better-bibtex 32207 +0}
+
+(3)(+0000000): {better-bibtex 32208 +0}
+
+(3)(+0000146): {better-bibtex 32209 +146}
+
+(3)(+0000000): {better-bibtex 32210 +0}
+
+(3)(+0000002): {better-bibtex 32211 +2}
+
+(3)(+0000000): {better-bibtex 32212 +0}
+
+(3)(+0000000): {better-bibtex 32213 +0}
+
+(3)(+0000000): {better-bibtex 32214 +0}
+
+(3)(+0000218): {better-bibtex 32215 +218}
+
+(3)(+0000000): {better-bibtex 32216 +0}
+
+(3)(+0000000): {better-bibtex 32217 +0}
+
+(3)(+0000000): {better-bibtex 32218 +0}
+
+(3)(+0000000): {better-bibtex 32219 +0}
+
+(3)(+0000000): {better-bibtex 32220 +0}
+
+(3)(+0000018): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 32221 +20}
+
+(3)(+0000012): {better-bibtex 32222 +12}
+
+(3)(+0000000): {better-bibtex 32223 +0}
+
+(3)(+0000000): {better-bibtex 32224 +0}
+
+(3)(+0000000): {better-bibtex 32225 +0}
+
+(3)(+0000000): {better-bibtex 32226 +0}
+
+(3)(+0000000): {better-bibtex 32227 +0}
+
+(3)(+0000192): {better-bibtex 32228 +190}
+
+(3)(+0000000): {better-bibtex 32229 +2}
+
+(3)(+0000000): {better-bibtex 32230 +0}
+
+(3)(+0000020): {better-bibtex 32231 +20}
+
+(3)(+0000000): {better-bibtex 32232 +0}
+
+(3)(+0000000): {better-bibtex 32233 +0}
+
+(3)(+0000016): {better-bibtex 32234 +16}
+
+(3)(+0000000): {better-bibtex 32235 +0}
+
+(3)(+0000000): {better-bibtex 32236 +0}
+
+(3)(+0000002): {better-bibtex 32237 +2}
+
+(3)(+0000002): {better-bibtex 32238 +2}
+
+(3)(+0000000): {better-bibtex 32239 +0}
+
+(3)(+0000000): {better-bibtex 32240 +0}
+
+(3)(+0000010): {better-bibtex 32241 +10}
+
+(3)(+0000000): {better-bibtex 32242 +0}
+
+(3)(+0000000): {better-bibtex 32243 +0}
+
+(3)(+0000046): {better-bibtex 32244 +46}
+
+(3)(+0000000): {better-bibtex 32245 +0}
+
+(3)(+0000000): {better-bibtex 32246 +0}
+
+(3)(+0000064): {better-bibtex 32247 +64}
+
+(3)(+0000000): {better-bibtex 32248 +0}
+
+(3)(+0000000): {better-bibtex 32249 +0}
+
+(3)(+0000014): {better-bibtex 32250 +14}
+
+(3)(+0000000): {better-bibtex 32251 +0}
+
+(3)(+0000002): {better-bibtex 32252 +0}
+
+(3)(+0000050): {better-bibtex 32253 +52}
+
+(3)(+0000000): {better-bibtex 32254 +0}
+
+(3)(+0000002): {better-bibtex 32255 +2}
+
+(3)(+0000138): {better-bibtex 32256 +138}
+
+(3)(+0000000): {better-bibtex 32257 +0}
+
+(3)(+0000000): {better-bibtex 32258 +0}
+
+(3)(+0000000): {better-bibtex 32259 +0}
+
+(3)(+0000430): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 32260 +430}
+
+(3)(+0000002): {better-bibtex 32261 +2}
+
+(3)(+0000000): {better-bibtex 32262 +0}
+
+(3)(+0000000): {better-bibtex 32263 +0}
+
+(3)(+0000002): {better-bibtex 32264 +2}
+
+(3)(+0000000): {better-bibtex 32265 +0}
+
+(3)(+0000000): {better-bibtex 32266 +0}
+
+(3)(+0000088): {better-bibtex 32267 +88}
+
+(3)(+0000000): {better-bibtex 32268 +0}
+
+(3)(+0000002): {better-bibtex 32269 +2}
+
+(3)(+0000000): {better-bibtex 32270 +0}
+
+(3)(+0000068): {better-bibtex 32271 +68}
+
+(3)(+0000000): {better-bibtex 32272 +0}
+
+(3)(+0000000): {better-bibtex 32273 +0}
+
+(3)(+0000000): {better-bibtex 32274 +0}
+
+(3)(+0000414): {better-bibtex 32275 +414}
+
+(3)(+0000000): {better-bibtex 32276 +0}
+
+(3)(+0000000): {better-bibtex 32277 +0}
+
+(3)(+0000000): {better-bibtex 32278 +0}
+
+(3)(+0000000): {better-bibtex 32279 +0}
+
+(3)(+0000000): {better-bibtex 32280 +0}
+
+(3)(+0000002): {better-bibtex 32281 +2}
+
+(3)(+0000000): {better-bibtex 32282 +0}
+
+(3)(+0000000): {better-bibtex 32283 +0}
+
+(3)(+0000000): {better-bibtex 32284 +0}
+
+(3)(+0000124): {better-bibtex 32285 +124}
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 32286 +2}
+
+(3)(+0000004): {better-bibtex 32287 +4}
+
+(3)(+0000000): {better-bibtex 32288 +0}
+
+(3)(+0000004): {better-bibtex 32289 +4}
+
+(3)(+0000000): {better-bibtex 32290 +0}
+
+(3)(+0000000): {better-bibtex 32291 +0}
+
+(3)(+0000000): {better-bibtex 32292 +0}
+
+(3)(+0000000): {better-bibtex 32293 +0}
+
+(3)(+0000000): {better-bibtex 32294 +0}
+
+(3)(+0000000): {better-bibtex 32295 +0}
+
+(3)(+0000000): {better-bibtex 32296 +0}
+
+(3)(+0000000): {better-bibtex 32297 +0}
+
+(3)(+0000000): {better-bibtex 32298 +0}
+
+(3)(+0000000): {better-bibtex 32299 +0}
+
+(3)(+0000000): {better-bibtex 32300 +0}
+
+(3)(+0000000): {better-bibtex 32301 +0}
+
+(3)(+0000000): {better-bibtex 32302 +0}
+
+(3)(+0000000): {better-bibtex 32303 +0}
+
+(3)(+0000000): {better-bibtex 32304 +0}
+
+(3)(+0000002): {better-bibtex 32305 +0}
+
+(3)(+0000000): {better-bibtex 32306 +2}
+
+(3)(+0000286): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 32307 +286}
+
+(3)(+0000002): {better-bibtex 32308 +2}
+
+(3)(+0000000): {better-bibtex 32309 +0}
+
+(3)(+0000000): {better-bibtex 32310 +0}
+
+(3)(+0000000): {better-bibtex 32311 +0}
+
+(3)(+0000000): {better-bibtex 32312 +0}
+
+(3)(+0000002): {better-bibtex 32313 +0}
+
+(3)(+0000000): {better-bibtex 32314 +2}
+
+(3)(+0000000): {better-bibtex 32315 +0}
+
+(3)(+0000000): {better-bibtex 32316 +0}
+
+(3)(+0000000): {better-bibtex 32317 +0}
+
+(3)(+0000000): {better-bibtex 32318 +0}
+
+(3)(+0000000): {better-bibtex 32319 +0}
+
+(3)(+0000000): {better-bibtex 32320 +0}
+
+(3)(+0000000): {better-bibtex 32321 +0}
+
+(3)(+0000000): {better-bibtex 32322 +0}
+
+(3)(+0000000): {better-bibtex 32323 +0}
+
+(3)(+0000000): {better-bibtex 32324 +0}
+
+(3)(+0000000): {better-bibtex 32325 +0}
+
+(3)(+0000092): {better-bibtex 32326 +92}
+
+(3)(+0000002): {better-bibtex 32327 +2}
+
+(3)(+0000000): {better-bibtex 32328 +0}
+
+(3)(+0000014): {better-bibtex 32329 +14}
+
+(3)(+0000000): {better-bibtex 32330 +0}
+
+(3)(+0000000): {better-bibtex 32331 +0}
+
+(3)(+0000020): {better-bibtex 32332 +20}
+
+(3)(+0000000): {better-bibtex 32333 +0}
+
+(3)(+0000000): {better-bibtex 32334 +0}
+
+(3)(+0000016): {better-bibtex 32335 +16}
+
+(3)(+0000000): {better-bibtex 32336 +0}
+
+(3)(+0000000): {better-bibtex 32337 +0}
+
+(3)(+0000006): {better-bibtex 32338 +6}
+
+(3)(+0000000): {better-bibtex 32339 +0}
+
+(3)(+0000000): {better-bibtex 32340 +0}
+
+(3)(+0000006): {better-bibtex 32341 +6}
+
+(3)(+0000000): {better-bibtex 32342 +0}
+
+(3)(+0000000): {better-bibtex 32343 +0}
+
+(3)(+0000002): {better-bibtex 32344 +2}
+
+(3)(+0000008): {better-bibtex 32345 +8}
+
+(3)(+0000000): {better-bibtex 32346 +0}
+
+(3)(+0000000): {better-bibtex 32347 +0}
+
+(3)(+0000024): {better-bibtex 32348 +22}
+
+(3)(+0000000): {better-bibtex 32349 +2}
+
+(3)(+0000000): {better-bibtex 32350 +0}
+
+(3)(+0000094): {better-bibtex 32351 +94}
+
+(3)(+0000000): {better-bibtex 32352 +0}
+
+(3)(+0000000): {better-bibtex 32353 +0}
+
+(3)(+0000030): {better-bibtex 32354 +30}
+
+(3)(+0000000): {better-bibtex 32355 +0}
+
+(3)(+0000000): {better-bibtex 32356 +0}
+
+(3)(+0000012): {better-bibtex 32357 +12}
+
+(3)(+0000000): {better-bibtex 32358 +0}
+
+(3)(+0000000): {better-bibtex 32359 +0}
+
+(3)(+0000014): {better-bibtex 32360 +14}
+
+(3)(+0000000): {better-bibtex 32361 +0}
+
+(3)(+0000000): {better-bibtex 32362 +0}
+
+(3)(+0000024): {better-bibtex 32363 +24}
+
+(3)(+0000000): {better-bibtex 32364 +0}
+
+(3)(+0000008): {better-bibtex 32365 +8}
+
+(3)(+0000000): {better-bibtex 32366 +0}
+
+(3)(+0000002): {better-bibtex 32367 +2}
+
+(3)(+0000000): {better-bibtex 32368 +0}
+
+(3)(+0000002): {better-bibtex 32369 +2}
+
+(3)(+0000000): {better-bibtex 32370 +0}
+
+(3)(+0000000): {better-bibtex 32371 +0}
+
+(3)(+0000016): {better-bibtex 32372 +16}
+
+(3)(+0000000): {better-bibtex 32373 +0}
+
+(3)(+0000000): {better-bibtex 32374 +0}
+
+(3)(+0000000): {better-bibtex 32375 +0}
+
+(3)(+0000000): {better-bibtex 32376 +0}
+
+(3)(+0000000): {better-bibtex 32377 +0}
+
+(3)(+0000016): {better-bibtex 32378 +16}
+
+(3)(+0000000): {better-bibtex 32379 +0}
+
+(3)(+0000000): {better-bibtex 32380 +0}
+
+(3)(+0000000): {better-bibtex 32381 +0}
+
+(3)(+0000002): {better-bibtex 32382 +0}
+
+(3)(+0000000): {better-bibtex 32383 +2}
+
+(3)(+0000018): {better-bibtex 32384 +18}
+
+(3)(+0000000): {better-bibtex 32385 +0}
+
+(3)(+0000000): {better-bibtex 32386 +0}
+
+(3)(+0000012): {better-bibtex 32387 +12}
+
+(3)(+0000000): {better-bibtex 32388 +0}
+
+(3)(+0000000): {better-bibtex 32389 +0}
+
+(3)(+0000000): {better-bibtex 32390 +0}
+
+(3)(+0000002): {better-bibtex 32391 +2}
+
+(3)(+0000000): {better-bibtex 32392 +0}
+
+(3)(+0000000): {better-bibtex 32393 +0}
+
+(3)(+0000014): {better-bibtex 32394 +14}
+
+(3)(+0000000): {better-bibtex 32395 +0}
+
+(3)(+0000000): {better-bibtex 32396 +0}
+
+(3)(+0000008): {better-bibtex 32397 +8}
+
+(3)(+0000000): {better-bibtex 32398 +0}
+
+(3)(+0000000): {better-bibtex 32399 +0}
+
+(3)(+0000010): {better-bibtex 32400 +10}
+
+(3)(+0000000): {better-bibtex 32401 +0}
+
+(3)(+0000000): {better-bibtex 32402 +0}
+
+(3)(+0000000): {better-bibtex 32403 +0}
+
+(3)(+0000012): {better-bibtex 32404 +12}
+
+(3)(+0000000): {better-bibtex 32405 +0}
+
+(3)(+0000000): {better-bibtex 32406 +0}
+
+(3)(+0000030): {better-bibtex 32407 +30}
+
+(3)(+0000000): {better-bibtex 32408 +0}
+
+(3)(+0000000): {better-bibtex 32409 +0}
+
+(3)(+0000016): {better-bibtex 32410 +16}
+
+(3)(+0000000): {better-bibtex 32411 +0}
+
+(3)(+0000000): {better-bibtex 32412 +0}
+
+(3)(+0000020): {better-bibtex 32413 +20}
+
+(3)(+0000000): {better-bibtex 32414 +0}
+
+(3)(+0000000): {better-bibtex 32415 +0}
+
+(3)(+0000020): {better-bibtex 32416 +20}
+
+(3)(+0000000): {better-bibtex 32417 +0}
+
+(3)(+0000018): {better-bibtex 32418 +18}
+
+(3)(+0000000): {better-bibtex 32419 +0}
+
+(3)(+0000000): {better-bibtex 32420 +0}
+
+(3)(+0000000): {better-bibtex 32421 +0}
+
+(3)(+0000000): {better-bibtex 32422 +0}
+
+(3)(+0000000): {better-bibtex 32423 +0}
+
+(3)(+0000000): {better-bibtex 32424 +0}
+
+(3)(+0000000): {better-bibtex 32425 +0}
+
+(3)(+0000000): {better-bibtex 32426 +0}
+
+(3)(+0000000): {better-bibtex 32427 +0}
+
+(3)(+0000000): {better-bibtex 32428 +0}
+
+(3)(+0000002): {better-bibtex 32429 +0}
+
+(3)(+0000000): {better-bibtex 32430 +2}
+
+(3)(+0000000): {better-bibtex 32431 +0}
+
+(3)(+0000000): {better-bibtex 32432 +0}
+
+(3)(+0000000): {better-bibtex 32433 +0}
+
+(3)(+0000000): {better-bibtex 32434 +0}
+
+(3)(+0000000): {better-bibtex 32435 +0}
+
+(3)(+0000404): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 32436 +404}
+
+(3)(+0000010): {better-bibtex 32437 +10}
+
+(3)(+0000000): {better-bibtex 32438 +0}
+
+(3)(+0000000): {better-bibtex 32439 +0}
+
+(3)(+0000000): {better-bibtex 32440 +0}
+
+(3)(+0000000): {better-bibtex 32441 +0}
+
+(3)(+0000000): {better-bibtex 32442 +0}
+
+(3)(+0000000): {better-bibtex 32443 +0}
+
+(3)(+0000000): {better-bibtex 32444 +0}
+
+(3)(+0000000): {better-bibtex 32445 +0}
+
+(3)(+0000000): {better-bibtex 32446 +0}
+
+(3)(+0000000): {better-bibtex 32447 +0}
+
+(3)(+0000000): {better-bibtex 32448 +0}
+
+(3)(+0000002): {better-bibtex 32449 +2}
+
+(3)(+0000000): {better-bibtex 32450 +0}
+
+(3)(+0000000): {better-bibtex 32451 +0}
+
+(3)(+0000000): {better-bibtex 32452 +0}
+
+(3)(+0000000): {better-bibtex 32453 +0}
+
+(3)(+0000000): {better-bibtex 32454 +0}
+
+(3)(+0000216): {better-bibtex 32455 +216}
+
+(3)(+0000000): {better-bibtex 32456 +0}
+
+(3)(+0000000): {better-bibtex 32457 +0}
+
+(3)(+0000000): {better-bibtex 32458 +0}
+
+(3)(+0000000): {better-bibtex 32459 +0}
+
+(3)(+0000000): {better-bibtex 32460 +0}
+
+(3)(+0000000): {better-bibtex 32461 +0}
+
+(3)(+0000000): {better-bibtex 32462 +0}
+
+(3)(+0000000): {better-bibtex 32463 +0}
+
+(3)(+0000000): {better-bibtex 32464 +0}
+
+(3)(+0000000): {better-bibtex 32465 +0}
+
+(3)(+0000000): {better-bibtex 32466 +0}
+
+(3)(+0000000): {better-bibtex 32467 +0}
+
+(3)(+0000000): {better-bibtex 32468 +0}
+
+(3)(+0000000): {better-bibtex 32469 +0}
+
+(3)(+0000002): {better-bibtex 32470 +2}
+
+(3)(+0000000): {better-bibtex 32471 +0}
+
+(3)(+0000000): {better-bibtex 32472 +0}
+
+(3)(+0000110): {better-bibtex 32473 +110}
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 32474 +0}
+
+(3)(+0000002): {better-bibtex 32475 +2}
+
+(3)(+0000000): {better-bibtex 32476 +0}
+
+(3)(+0000000): {better-bibtex 32477 +0}
+
+(3)(+0000000): {better-bibtex 32478 +0}
+
+(3)(+0000000): {better-bibtex 32479 +0}
+
+(3)(+0000000): {better-bibtex 32480 +0}
+
+(3)(+0000000): {better-bibtex 32481 +0}
+
+(4)(+0000002): Translate: Binding sandbox to http://www.example.com/
+
+(3)(+0000002): Getting contents of
+C:\Users\llinfeng\Zotero\translators\Better BibTeX.js
+
+(3)(+0000004): {better-bibtex 32482 +8}
+
+(3)(+0000000): {better-bibtex 32483 +0}
+
+(3)(+0000002): {better-bibtex 32484 +2}
+
+(3)(+0000000): {better-bibtex 32485 +0}
+
+(3)(+0000000): {better-bibtex 32486 +0}
+
+(3)(+0000000): {better-bibtex 32487 +0}
+
+(3)(+0000000): {better-bibtex 32488 +0}
+
+(3)(+0000000): {better-bibtex 32489 +0}
+
+(3)(+0000000): {better-bibtex 32490 +0}
+
+(3)(+0000000): {better-bibtex 32491 +0}
+
+(3)(+0000000): {better-bibtex 32492 +0}
+
+(3)(+0000000): {better-bibtex 32493 +0}
+
+(3)(+0000000): {better-bibtex 32494 +0}
+
+(3)(+0000000): {better-bibtex 32495 +0}
+
+(3)(+0000000): {better-bibtex 32496 +0}
+
+(3)(+0000000): {better-bibtex 32497 +0}
+
+(3)(+0000000): {better-bibtex 32498 +0}
+
+(3)(+0000000): {better-bibtex 32499 +0}
+
+(4)(+0000004): Translate: Parsing code for Better BibTeX
+(ca65189f-8815-4afe-8c8b-8c7c15f0edca, 2018-07-14 12:32:03)
+
+(3)(+0000024): Translate: BBT: loading translators/Better BibTeX.ts
+
+(3)(+0000000): Translate: BBT: loading translators/bibtex/reference.ts
+
+(3)(+0000000): Translate: BBT: loading translators/lib/exporter.ts
+
+(3)(+0000000): Translate: BBT: loading translators/bibtex/jabref.ts
+
+(3)(+0000000): Translate: BBT: loading translators/lib/debug.ts
+
+(3)(+0000000): Translate: BBT: loaded translators/lib/debug.ts
+
+(3)(+0000002): Translate: BBT: loaded translators/bibtex/jabref.ts
+
+(3)(+0000000): Translate: BBT: loaded translators/lib/exporter.ts
+
+(3)(+0000000): Translate: BBT: loading
+translators/bibtex/unicode_translator.ts
+
+(3)(+0000004): Translate: BBT: loaded
+translators/bibtex/unicode_translator.ts
+
+(3)(+0000000): Translate: BBT: loading translators/bibtex/datefield.ts
+
+(3)(+0000000): Translate: BBT: loaded translators/bibtex/datefield.ts
+
+(3)(+0000002): Translate: BBT: loaded translators/bibtex/reference.ts
+
+(3)(+0000000): Translate: BBT: loading translators/lib/html-escape.ts
+
+(3)(+0000000): Translate: BBT: loaded translators/lib/html-escape.ts
+
+(3)(+0000004): Translate: BBT: loaded translators/Better BibTeX.ts
+
+(4)(+0000002): SELECT A.itemID FROM items A LEFT JOIN itemNotes B USING
+(itemID) LEFT JOIN itemAttachments C ON (C.itemID=A.itemID) WHERE
+B.parentItemID IS NULL AND C.parentItemID IS NULL AND A.itemID NOT IN
+(SELECT itemID FROM deletedItems) AND libraryID=? [1]
+
+(3)(+0000028): Translate: Beginning translation with Better BibTeX
+
+(3)(+0000122): {Better BibTeX 32500 +192}
+
+(3)(+0000004): {Better BibTeX 32501 +4}
+
+(3)(+0000006): {Better BibTeX 32502 +6}
+
+(3)(+0000004): {Better BibTeX 32503 +4}
+
+(3)(+0000002): {Better BibTeX 32504 +2}
+
+(3)(+0000004): {Better BibTeX 32505 +4}
+
+(3)(+0000002): {Better BibTeX 32506 +2}
+
+(3)(+0000000): {Better BibTeX 32507 +0}
+
+(3)(+0000002): {Better BibTeX 32508 +2}
+
+(3)(+0000004): {Better BibTeX 32509 +4}
+
+(3)(+0000002): {Better BibTeX 32510 +2}
+
+(3)(+0000002): {Better BibTeX 32511 +2}
+
+(3)(+0000002): {Better BibTeX 32512 +2}
+
+(3)(+0000002): {Better BibTeX 32513 +2}
+
+(3)(+0000000): {Better BibTeX 32514 +0}
+
+(3)(+0000002): {Better BibTeX 32515 +2}
+
+(3)(+0000002): {Better BibTeX 32516 +2}
+
+(3)(+0000002): {Better BibTeX 32517 +0}
+
+(3)(+0000000): {Better BibTeX 32518 +2}
+
+(3)(+0000002): {Better BibTeX 32519 +2}
+
+(3)(+0000002): {Better BibTeX 32520 +2}
+
+(3)(+0000000): {Better BibTeX 32521 +0}
+
+(3)(+0000002): {Better BibTeX 32522 +2}
+
+(3)(+0000002): {Better BibTeX 32523 +2}
+
+(3)(+0000004): {Better BibTeX 32524 +4}
+
+(3)(+0000000): {Better BibTeX 32525 +0}
+
+(3)(+0000002): {Better BibTeX 32526 +2}
+
+(3)(+0000002): {Better BibTeX 32527 +2}
+
+(3)(+0000004): {Better BibTeX 32528 +4}
+
+(3)(+0000000): {Better BibTeX 32529 +0}
+
+(3)(+0000002): {Better BibTeX 32530 +2}
+
+(3)(+0000002): {Better BibTeX 32531 +2}
+
+(3)(+0000000): {Better BibTeX 32532 +0}
+
+(3)(+0000002): {Better BibTeX 32533 +2}
+
+(3)(+0000002): {Better BibTeX 32534 +2}
+
+(3)(+0000000): {Better BibTeX 32535 +0}
+
+(3)(+0000002): {Better BibTeX 32536 +2}
+
+(3)(+0000000): {Better BibTeX 32537 +0}
+
+(3)(+0000002): {Better BibTeX 32538 +2}
+
+(3)(+0000002): {Better BibTeX 32539 +2}
+
+(3)(+0000000): {Better BibTeX 32540 +0}
+
+(3)(+0000002): {Better BibTeX 32541 +2}
+
+(3)(+0000002): {Better BibTeX 32542 +2}
+
+(3)(+0000000): {Better BibTeX 32543 +0}
+
+(3)(+0000002): {Better BibTeX 32544 +2}
+
+(3)(+0000002): {Better BibTeX 32545 +2}
+
+(3)(+0000002): {Better BibTeX 32546 +2}
+
+(3)(+0000002): {Better BibTeX 32547 +2}
+
+(3)(+0000002): {Better BibTeX 32548 +2}
+
+(3)(+0000000): {Better BibTeX 32549 +0}
+
+(3)(+0000002): {Better BibTeX 32550 +2}
+
+(3)(+0000000): {Better BibTeX 32551 +0}
+
+(3)(+0000002): {Better BibTeX 32552 +2}
+
+(3)(+0000002): {Better BibTeX 32553 +2}
+
+(3)(+0000002): {Better BibTeX 32554 +2}
+
+(3)(+0000000): {Better BibTeX 32555 +0}
+
+(3)(+0000002): {Better BibTeX 32556 +2}
+
+(3)(+0000002): {Better BibTeX 32557 +2}
+
+(3)(+0000002): {Better BibTeX 32558 +2}
+
+(3)(+0000000): {Better BibTeX 32559 +0}
+
+(3)(+0000002): {Better BibTeX 32560 +2}
+
+(3)(+0000000): {Better BibTeX 32561 +0}
+
+(3)(+0000002): {Better BibTeX 32562 +2}
+
+(3)(+0000002): {Better BibTeX 32563 +2}
+
+(3)(+0000002): {Better BibTeX 32564 +2}
+
+(3)(+0000002): {Better BibTeX 32565 +2}
+
+(3)(+0000002): {Better BibTeX 32566 +2}
+
+(3)(+0000002): {Better BibTeX 32567 +2}
+
+(3)(+0000000): {Better BibTeX 32568 +0}
+
+(3)(+0000002): {Better BibTeX 32569 +2}
+
+(3)(+0000002): {Better BibTeX 32570 +2}
+
+(3)(+0000000): {Better BibTeX 32571 +0}
+
+(3)(+0000002): {Better BibTeX 32572 +2}
+
+(3)(+0000000): {Better BibTeX 32573 +0}
+
+(3)(+0000002): {Better BibTeX 32574 +2}
+
+(3)(+0000002): {Better BibTeX 32575 +2}
+
+(3)(+0000000): {Better BibTeX 32576 +0}
+
+(3)(+0000002): {Better BibTeX 32577 +2}
+
+(3)(+0000000): {Better BibTeX 32578 +0}
+
+(3)(+0000002): {Better BibTeX 32579 +2}
+
+(3)(+0000002): {Better BibTeX 32580 +2}
+
+(3)(+0000000): {Better BibTeX 32581 +0}
+
+(3)(+0000002): {Better BibTeX 32582 +2}
+
+(3)(+0000002): {Better BibTeX 32583 +2}
+
+(3)(+0000000): {Better BibTeX 32584 +0}
+
+(3)(+0000002): {Better BibTeX 32585 +2}
+
+(3)(+0000002): {Better BibTeX 32586 +2}
+
+(3)(+0000002): {Better BibTeX 32587 +2}
+
+(3)(+0000000): {Better BibTeX 32588 +0}
+
+(3)(+0000002): {Better BibTeX 32589 +2}
+
+(3)(+0000002): {Better BibTeX 32590 +2}
+
+(3)(+0000000): {Better BibTeX 32591 +0}
+
+(3)(+0000002): {Better BibTeX 32592 +2}
+
+(3)(+0000002): {Better BibTeX 32593 +2}
+
+(3)(+0000000): {Better BibTeX 32594 +0}
+
+(3)(+0000002): {Better BibTeX 32595 +2}
+
+(3)(+0000002): {Better BibTeX 32596 +2}
+
+(3)(+0000002): {Better BibTeX 32597 +2}
+
+(3)(+0000002): {Better BibTeX 32598 +2}
+
+(3)(+0000000): {Better BibTeX 32599 +0}
+
+(3)(+0000002): {Better BibTeX 32600 +2}
+
+(3)(+0000002): {Better BibTeX 32601 +2}
+
+(3)(+0000002): {Better BibTeX 32602 +2}
+
+(3)(+0000000): {Better BibTeX 32603 +0}
+
+(3)(+0000002): {Better BibTeX 32604 +2}
+
+(3)(+0000000): {Better BibTeX 32605 +0}
+
+(3)(+0000002): {Better BibTeX 32606 +2}
+
+(3)(+0000002): {Better BibTeX 32607 +2}
+
+(3)(+0000000): {Better BibTeX 32608 +0}
+
+(3)(+0000002): {Better BibTeX 32609 +2}
+
+(3)(+0000002): {Better BibTeX 32610 +2}
+
+(3)(+0000002): {Better BibTeX 32611 +2}
+
+(3)(+0000000): {Better BibTeX 32612 +0}
+
+(3)(+0000002): {Better BibTeX 32613 +2}
+
+(3)(+0000002): {Better BibTeX 32614 +2}
+
+(3)(+0000000): {Better BibTeX 32615 +0}
+
+(3)(+0000002): {Better BibTeX 32616 +2}
+
+(3)(+0000002): {Better BibTeX 32617 +2}
+
+(3)(+0000000): {Better BibTeX 32618 +0}
+
+(3)(+0000002): {Better BibTeX 32619 +2}
+
+(3)(+0000002): {Better BibTeX 32620 +0}
+
+(3)(+0000000): {Better BibTeX 32621 +2}
+
+(3)(+0000002): {Better BibTeX 32622 +2}
+
+(3)(+0000002): {Better BibTeX 32623 +2}
+
+(3)(+0000000): {Better BibTeX 32624 +0}
+
+(3)(+0000002): {Better BibTeX 32625 +2}
+
+(3)(+0000002): {Better BibTeX 32626 +2}
+
+(3)(+0000000): {Better BibTeX 32627 +0}
+
+(3)(+0000002): {Better BibTeX 32628 +2}
+
+(3)(+0000000): {Better BibTeX 32629 +0}
+
+(3)(+0000002): {Better BibTeX 32630 +2}
+
+(3)(+0000000): {Better BibTeX 32631 +0}
+
+(3)(+0000002): {Better BibTeX 32632 +2}
+
+(3)(+0000000): {Better BibTeX 32633 +0}
+
+(3)(+0000000): {Better BibTeX 32634 +0}
+
+(3)(+0000002): {Better BibTeX 32635 +2}
+
+(3)(+0000000): {Better BibTeX 32636 +0}
+
+(3)(+0000002): {Better BibTeX 32637 +2}
+
+(3)(+0000000): {Better BibTeX 32638 +0}
+
+(3)(+0000002): {Better BibTeX 32639 +2}
+
+(3)(+0000000): {Better BibTeX 32640 +0}
+
+(3)(+0000002): {Better BibTeX 32641 +2}
+
+(3)(+0000010): {Better BibTeX 32642 +10}
+
+(3)(+0000000): {Better BibTeX 32643 +0}
+
+(3)(+0000002): {Better BibTeX 32644 +2}
+
+(3)(+0000002): {Better BibTeX 32645 +2}
+
+(3)(+0000002): {Better BibTeX 32646 +2}
+
+(3)(+0000002): {Better BibTeX 32647 +2}
+
+(3)(+0000000): {Better BibTeX 32648 +0}
+
+(3)(+0000000): {Better BibTeX 32649 +0}
+
+(3)(+0000002): {Better BibTeX 32650 +2}
+
+(3)(+0000000): {Better BibTeX 32651 +0}
+
+(3)(+0000002): {Better BibTeX 32652 +2}
+
+(3)(+0000000): {Better BibTeX 32653 +0}
+
+(3)(+0000004): {Better BibTeX 32654 +4}
+
+(3)(+0000000): {Better BibTeX 32655 +0}
+
+(3)(+0000002): {Better BibTeX 32656 +2}
+
+(3)(+0000000): {Better BibTeX 32657 +0}
+
+(3)(+0000002): {Better BibTeX 32658 +2}
+
+(3)(+0000000): {Better BibTeX 32659 +0}
+
+(3)(+0000002): {Better BibTeX 32660 +2}
+
+(3)(+0000000): {Better BibTeX 32661 +0}
+
+(3)(+0000002): {Better BibTeX 32662 +2}
+
+(3)(+0000000): {Better BibTeX 32663 +0}
+
+(3)(+0000000): {Better BibTeX 32664 +0}
+
+(3)(+0000002): {Better BibTeX 32665 +2}
+
+(3)(+0000000): {Better BibTeX 32666 +0}
+
+(3)(+0000002): {Better BibTeX 32667 +2}
+
+(3)(+0000000): {Better BibTeX 32668 +0}
+
+(3)(+0000002): {Better BibTeX 32669 +2}
+
+(3)(+0000000): {Better BibTeX 32670 +0}
+
+(3)(+0000002): {Better BibTeX 32671 +2}
+
+(3)(+0000000): {Better BibTeX 32672 +0}
+
+(3)(+0000002): {Better BibTeX 32673 +0}
+
+(3)(+0000000): {Better BibTeX 32674 +2}
+
+(3)(+0000000): {Better BibTeX 32675 +0}
+
+(3)(+0000002): {Better BibTeX 32676 +2}
+
+(3)(+0000002): {Better BibTeX 32677 +2}
+
+(3)(+0000000): {Better BibTeX 32678 +0}
+
+(3)(+0000002): {Better BibTeX 32679 +2}
+
+(3)(+0000000): {Better BibTeX 32680 +0}
+
+(3)(+0000000): {Better BibTeX 32681 +0}
+
+(3)(+0000002): {Better BibTeX 32682 +2}
+
+(3)(+0000000): {Better BibTeX 32683 +0}
+
+(3)(+0000002): {Better BibTeX 32684 +2}
+
+(3)(+0000000): {Better BibTeX 32685 +0}
+
+(3)(+0000002): {Better BibTeX 32686 +2}
+
+(3)(+0000000): {Better BibTeX 32687 +0}
+
+(3)(+0000002): {Better BibTeX 32688 +2}
+
+(3)(+0000000): {Better BibTeX 32689 +0}
+
+(3)(+0000002): {Better BibTeX 32690 +2}
+
+(3)(+0000000): {Better BibTeX 32691 +0}
+
+(3)(+0000000): {Better BibTeX 32692 +0}
+
+(3)(+0000002): {Better BibTeX 32693 +2}
+
+(3)(+0000000): {Better BibTeX 32694 +0}
+
+(3)(+0000002): {Better BibTeX 32695 +2}
+
+(3)(+0000000): {Better BibTeX 32696 +0}
+
+(3)(+0000002): {Better BibTeX 32697 +2}
+
+(3)(+0000000): {Better BibTeX 32698 +0}
+
+(3)(+0000002): {Better BibTeX 32699 +2}
+
+(3)(+0000002): {Better BibTeX 32700 +2}
+
+(3)(+0000000): {Better BibTeX 32701 +0}
+
+(3)(+0000002): {Better BibTeX 32702 +2}
+
+(3)(+0000000): {Better BibTeX 32703 +0}
+
+(3)(+0000000): {Better BibTeX 32704 +0}
+
+(3)(+0000002): {Better BibTeX 32705 +2}
+
+(3)(+0000000): {Better BibTeX 32706 +0}
+
+(3)(+0000002): {Better BibTeX 32707 +2}
+
+(3)(+0000000): {Better BibTeX 32708 +0}
+
+(3)(+0000002): {Better BibTeX 32709 +2}
+
+(3)(+0000002): {Better BibTeX 32710 +2}
+
+(3)(+0000000): {Better BibTeX 32711 +0}
+
+(3)(+0000002): {Better BibTeX 32712 +2}
+
+(3)(+0000000): {Better BibTeX 32713 +0}
+
+(3)(+0000002): {Better BibTeX 32714 +2}
+
+(3)(+0000000): {Better BibTeX 32715 +0}
+
+(3)(+0000002): {Better BibTeX 32716 +2}
+
+(3)(+0000000): {Better BibTeX 32717 +0}
+
+(3)(+0000002): {Better BibTeX 32718 +2}
+
+(3)(+0000000): {Better BibTeX 32719 +0}
+
+(3)(+0000002): {Better BibTeX 32720 +2}
+
+(3)(+0000002): {Better BibTeX 32721 +2}
+
+(3)(+0000002): {Better BibTeX 32722 +2}
+
+(3)(+0000000): {Better BibTeX 32723 +0}
+
+(3)(+0000002): {Better BibTeX 32724 +2}
+
+(3)(+0000000): {Better BibTeX 32725 +0}
+
+(3)(+0000000): {Better BibTeX 32726 +0}
+
+(3)(+0000002): {Better BibTeX 32727 +2}
+
+(3)(+0000000): {Better BibTeX 32728 +0}
+
+(3)(+0000002): {Better BibTeX 32729 +2}
+
+(3)(+0000000): {Better BibTeX 32730 +0}
+
+(3)(+0000000): {Better BibTeX 32731 +0}
+
+(3)(+0000002): {Better BibTeX 32732 +2}
+
+(3)(+0000000): {Better BibTeX 32733 +0}
+
+(3)(+0000002): {Better BibTeX 32734 +2}
+
+(3)(+0000002): {Better BibTeX 32735 +2}
+
+(3)(+0000000): {Better BibTeX 32736 +0}
+
+(3)(+0000000): {Better BibTeX 32737 +0}
+
+(3)(+0000002): {Better BibTeX 32738 +2}
+
+(3)(+0000000): {Better BibTeX 32739 +0}
+
+(3)(+0000002): {Better BibTeX 32740 +2}
+
+(3)(+0000000): {Better BibTeX 32741 +0}
+
+(3)(+0000002): {Better BibTeX 32742 +2}
+
+(3)(+0000000): {Better BibTeX 32743 +0}
+
+(3)(+0000002): {Better BibTeX 32744 +2}
+
+(3)(+0000000): {Better BibTeX 32745 +0}
+
+(3)(+0000000): {Better BibTeX 32746 +0}
+
+(3)(+0000002): {Better BibTeX 32747 +2}
+
+(3)(+0000000): {Better BibTeX 32748 +0}
+
+(3)(+0000002): {Better BibTeX 32749 +2}
+
+(3)(+0000000): {Better BibTeX 32750 +0}
+
+(3)(+0000002): {Better BibTeX 32751 +2}
+
+(3)(+0000002): {Better BibTeX 32752 +2}
+
+(3)(+0000000): {Better BibTeX 32753 +0}
+
+(3)(+0000002): {Better BibTeX 32754 +2}
+
+(3)(+0000000): {Better BibTeX 32755 +0}
+
+(3)(+0000002): {Better BibTeX 32756 +2}
+
+(3)(+0000000): {Better BibTeX 32757 +0}
+
+(3)(+0000000): {Better BibTeX 32758 +0}
+
+(3)(+0000002): {Better BibTeX 32759 +2}
+
+(3)(+0000000): {Better BibTeX 32760 +0}
+
+(3)(+0000002): {Better BibTeX 32761 +2}
+
+(3)(+0000000): {Better BibTeX 32762 +0}
+
+(3)(+0000002): {Better BibTeX 32763 +2}
+
+(3)(+0000002): {Better BibTeX 32764 +2}
+
+(3)(+0000002): {Better BibTeX 32765 +2}
+
+(3)(+0000002): {Better BibTeX 32766 +2}
+
+(3)(+0000000): {Better BibTeX 32767 +0}
+
+(3)(+0000002): {Better BibTeX 32768 +2}
+
+(3)(+0000002): {Better BibTeX 32769 +2}
+
+(3)(+0000000): {Better BibTeX 32770 +0}
+
+(3)(+0000002): {Better BibTeX 32771 +2}
+
+(3)(+0000000): {Better BibTeX 32772 +0}
+
+(3)(+0000002): {Better BibTeX 32773 +2}
+
+(3)(+0000000): {Better BibTeX 32774 +0}
+
+(3)(+0000002): {Better BibTeX 32775 +2}
+
+(3)(+0000002): {Better BibTeX 32776 +2}
+
+(3)(+0000000): {Better BibTeX 32777 +0}
+
+(3)(+0000002): {Better BibTeX 32778 +2}
+
+(3)(+0000002): {Better BibTeX 32779 +2}
+
+(3)(+0000000): {Better BibTeX 32780 +0}
+
+(3)(+0000002): {Better BibTeX 32781 +2}
+
+(3)(+0000002): {Better BibTeX 32782 +2}
+
+(3)(+0000000): {Better BibTeX 32783 +0}
+
+(3)(+0000002): {Better BibTeX 32784 +2}
+
+(3)(+0000000): {Better BibTeX 32785 +0}
+
+(3)(+0000004): {Better BibTeX 32786 +4}
+
+(3)(+0000000): {Better BibTeX 32787 +0}
+
+(3)(+0000002): {Better BibTeX 32788 +2}
+
+(3)(+0000002): {Better BibTeX 32789 +2}
+
+(3)(+0000002): {Better BibTeX 32790 +2}
+
+(3)(+0000000): {Better BibTeX 32791 +0}
+
+(3)(+0000002): {Better BibTeX 32792 +2}
+
+(3)(+0000002): {Better BibTeX 32793 +2}
+
+(3)(+0000000): {Better BibTeX 32794 +0}
+
+(3)(+0000002): {Better BibTeX 32795 +2}
+
+(3)(+0000000): {Better BibTeX 32796 +0}
+
+(3)(+0000002): {Better BibTeX 32797 +2}
+
+(3)(+0000002): {Better BibTeX 32798 +2}
+
+(3)(+0000000): {Better BibTeX 32799 +0}
+
+(3)(+0000002): {Better BibTeX 32800 +2}
+
+(3)(+0000000): {Better BibTeX 32801 +0}
+
+(3)(+0000004): {Better BibTeX 32802 +4}
+
+(3)(+0000000): {Better BibTeX 32803 +0}
+
+(3)(+0000002): {Better BibTeX 32804 +2}
+
+(3)(+0000000): {Better BibTeX 32805 +0}
+
+(3)(+0000002): {Better BibTeX 32806 +2}
+
+(3)(+0000000): {Better BibTeX 32807 +0}
+
+(3)(+0000002): {Better BibTeX 32808 +2}
+
+(3)(+0000002): {Better BibTeX 32809 +2}
+
+(3)(+0000000): {Better BibTeX 32810 +0}
+
+(3)(+0000000): {Better BibTeX 32811 +0}
+
+(3)(+0000002): {Better BibTeX 32812 +2}
+
+(3)(+0000004): {Better BibTeX 32813 +4}
+
+(3)(+0000000): {Better BibTeX 32814 +0}
+
+(3)(+0000002): {Better BibTeX 32815 +2}
+
+(3)(+0000002): {Better BibTeX 32816 +2}
+
+(3)(+0000000): {Better BibTeX 32817 +0}
+
+(3)(+0000002): {Better BibTeX 32818 +2}
+
+(3)(+0000000): {Better BibTeX 32819 +0}
+
+(3)(+0000004): {Better BibTeX 32820 +4}
+
+(3)(+0000000): {Better BibTeX 32821 +0}
+
+(3)(+0000002): {Better BibTeX 32822 +2}
+
+(3)(+0000000): {Better BibTeX 32823 +0}
+
+(3)(+0000002): {Better BibTeX 32824 +2}
+
+(3)(+0000002): {Better BibTeX 32825 +2}
+
+(3)(+0000000): {Better BibTeX 32826 +0}
+
+(3)(+0000002): {Better BibTeX 32827 +2}
+
+(3)(+0000000): {Better BibTeX 32828 +0}
+
+(3)(+0000002): {Better BibTeX 32829 +2}
+
+(3)(+0000002): {Better BibTeX 32830 +2}
+
+(3)(+0000000): {Better BibTeX 32831 +0}
+
+(3)(+0000002): {Better BibTeX 32832 +2}
+
+(3)(+0000000): {Better BibTeX 32833 +0}
+
+(3)(+0000002): {Better BibTeX 32834 +2}
+
+(3)(+0000002): {Better BibTeX 32835 +0}
+
+(3)(+0000000): {Better BibTeX 32836 +2}
+
+(3)(+0000002): {Better BibTeX 32837 +2}
+
+(3)(+0000000): {Better BibTeX 32838 +0}
+
+(3)(+0000002): {Better BibTeX 32839 +2}
+
+(3)(+0000002): {Better BibTeX 32840 +2}
+
+(3)(+0000004): {Better BibTeX 32841 +4}
+
+(3)(+0000000): {Better BibTeX 32842 +0}
+
+(3)(+0000002): {Better BibTeX 32843 +2}
+
+(3)(+0000000): {Better BibTeX 32844 +0}
+
+(3)(+0000000): {better-bibtex 32845 +0}
+
+(3)(+0000000): {better-bibtex 32846 +0}
+
+(3)(+0000000): {Better BibTeX 32847 +0}
+
+(3)(+0000002): {Better BibTeX 32848 +2}
+
+(3)(+0000000): {Better BibTeX 32849 +0}
+
+(3)(+0000000): {Better BibTeX 32850 +0}
+
+(3)(+0000000): {Better BibTeX 32851 +0}
+
+(3)(+0000000): {Better BibTeX 32852 +0}
+
+(3)(+0000000): {Better BibTeX 32853 +0}
+
+(3)(+0000008): {Better BibTeX 32854 +8}
+
+(3)(+0000000): {Better BibTeX 32855 +0}
+
+(3)(+0000006): {Better BibTeX 32856 +6}
+
+(3)(+0000000): {Better BibTeX 32857 +0}
+
+(3)(+0000000): {Better BibTeX 32858 +0}
+
+(3)(+0000000): {Better BibTeX 32859 +0}
+
+(3)(+0000000): {Better BibTeX 32860 +0}
+
+(3)(+0000000): {Better BibTeX 32861 +0}
+
+(3)(+0000000): {Better BibTeX 32862 +0}
+
+(3)(+0000000): {Better BibTeX 32863 +0}
+
+(1)(+0000010): Error: Unexpected script body
+walk@chrome://zotero-better-bibtex/content/BetterBibTeX.js:5462:23
+walk@chrome://zotero-better-bibtex/content/BetterBibTeX.js:5470:43
+parse@chrome://zotero-better-bibtex/content/BetterBibTeX.js:5305:15
+parseHTML@chrome://zotero-better-bibtex/content/BetterBibTeX.js:9540:48
+Zotero.Translate.SandboxManager.prototype.importObject/attachTo[localKey]<@chrome://zotero/content/xpcom/translation/translate_firefox.js:512:28
+@chrome://zotero/content/xpcom/translation/translate_firefox.js:418:66
+convert@Better BibTeX:11178:21 html2latex@Better BibTeX:11345:19
+text2latex@Better BibTeX:11356:12 enc_latex@Better BibTeX:12212:23
+add@Better BibTeX:11835:25 Translator.doExport@Better BibTeX:12786:9
+doExport@Better BibTeX:102:5
+rest@chrome://zotero/content/xpcom/translation/translate.js:1389:24
+Zotero.Translate.Base.prototype._translateTranslatorLoaded</<@chrome://zotero/content/xpcom/translation/translate.js:1379:34
+
+(2)(+0000000): Translate: Translation using Better BibTeX failed: Error:
+Unexpected script body
+walk@chrome://zotero-better-bibtex/content/BetterBibTeX.js:5462:23
+walk@chrome://zotero-better-bibtex/content/BetterBibTeX.js:5470:43
+parse@chrome://zotero-better-bibtex/content/BetterBibTeX.js:5305:15
+parseHTML@chrome://zotero-better-bibtex/content/BetterBibTeX.js:9540:48
+Zotero.Translate.SandboxManager.prototype.importObject/attachTo[localKey]<@chrome://zotero/content/xpcom/translation/translate_firefox.js:512:28
+@chrome://zotero/content/xpcom/translation/translate_firefox.js:418:66
+convert@Better BibTeX:11178:21 html2latex@Better BibTeX:11345:19
+text2latex@Better BibTeX:11356:12 enc_latex@Better BibTeX:12212:23
+add@Better BibTeX:11835:25 Translator.doExport@Better BibTeX:12786:9
+doExport@Better BibTeX:102:5
+rest@chrome://zotero/content/xpcom/translation/translate.js:1389:24
+Zotero.Translate.Base.prototype._translateTranslatorLoaded</<@chrome://zotero/content/xpcom/translation/translate.js:1379:34
+tryCatcher@resource://gre/modules/commonjs/toolkit/loader.js ->
+resource://zotero/bluebird/util.js:16:16
+module.exports/Promise.prototype._settlePromiseFromHandler@resource://gre/modules/commonjs/toolkit/loader.js
+-> resource://zotero/bluebird/promise.js:512:13
+module.exports/Promise.prototype._settlePromise@resource://gre/modules/commonjs/toolkit/loader.js
+-> resource://zotero/bluebird/promise.js:569:13
+module.exports/Promise.prototype._settlePromise0@resource://gre/modules/commonjs/toolkit/loader.js
+-> resource://zotero/bluebird/promise.js:614:5
+module.exports/Promise.prototype._settlePromises@resource://gre/modules/commonjs/toolkit/loader.js
+-> resource://zotero/bluebird/promise.js:693:13
+Async.prototype._drainQueue@resource://gre/modules/commonjs/toolkit/loader.js
+-> resource://zotero/bluebird/async.js:133:13
+Async.prototype._drainQueues@resource://gre/modules/commonjs/toolkit/loader.js
+-> resource://zotero/bluebird/async.js:143:5
+Async/this.drainQueues@resource://gre/modules/commonjs/toolkit/loader.js
+-> resource://zotero/bluebird/async.js:17:9 url =>
+C:\Users\llinfeng\Nutstore\Research\Zotero_Full_Synced_BibTex.bib
+downloadAssociatedFiles => true
+
+(5)(+0000000): Translate: Running handler 0 for error
+
+(5)(+0000000): Translate: Running handler 0 for done
+
+(3)(+0000000): {better-bibtex 32864 +10}
+
+(3)(+0000002): {better-bibtex 32865 +2}
+
+(3)(+0000000): {better-bibtex 32866 +0}
+
+(3)(+0000000): {better-bibtex 32867 +0}
+
+(3)(+0000002): {better-bibtex 32868 +2}
+
+(3)(+0000000): {better-bibtex 32869 +0}
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 32870 +0}
+
+(3)(+0000018): {better-bibtex 32871 +18}
+
+(3)(+0000000): {better-bibtex 32872 +0}
+
+(3)(+0000000): {better-bibtex 32873 +0}
+
+(3)(+0000000): {better-bibtex 32874 +0}
+
+(3)(+0000000): {better-bibtex 32875 +0}
+
+(3)(+0000000): {better-bibtex 32876 +0}
+
+(3)(+0000000): {better-bibtex 32877 +0}
+
+(3)(+0000000): {better-bibtex 32878 +0}
+
+(3)(+0000000): {better-bibtex 32879 +0}
+
+(3)(+0000000): {better-bibtex 32880 +0}
+
+(3)(+0000000): {better-bibtex 32881 +0}
+
+(3)(+0000002): {better-bibtex 32882 +2}
+
+(3)(+0000000): {better-bibtex 32883 +0}
+
+(3)(+0000000): {better-bibtex 32884 +0}
+
+(3)(+0000000): {better-bibtex 32885 +0}
+
+(3)(+0000000): {better-bibtex 32886 +0}
+
+(3)(+0000000): {better-bibtex 32887 +0}
+
+(3)(+0000000): {better-bibtex 32888 +0}
+
+(3)(+0000082): {better-bibtex 32889 +82}
+
+(3)(+0000000): {better-bibtex 32890 +0}
+
+(3)(+0000022): {better-bibtex 32891 +22}
+
+(3)(+0000000): {better-bibtex 32892 +0}
+
+(3)(+0000014): {better-bibtex 32893 +14}
+
+(3)(+0000000): {better-bibtex 32894 +0}
+
+(3)(+0000014): {better-bibtex 32895 +14}
+
+(3)(+0000000): {better-bibtex 32896 +0}
+
+(3)(+0000014): {better-bibtex 32897 +14}
+
+(3)(+0000000): {better-bibtex 32898 +0}
+
+(3)(+0000016): {better-bibtex 32899 +16}
+
+(3)(+0000000): {better-bibtex 32900 +0}
+
+(3)(+0000014): {better-bibtex 32901 +14}
+
+(3)(+0000000): {better-bibtex 32902 +0}
+
+(3)(+0000016): {better-bibtex 32903 +16}
+
+(3)(+0000000): {better-bibtex 32904 +0}
+
+(3)(+0000014): {better-bibtex 32905 +14}
+
+(3)(+0000000): {better-bibtex 32906 +0}
+
+(3)(+0000020): {better-bibtex 32907 +20}
+
+(3)(+0000000): {better-bibtex 32908 +0}
+
+(3)(+0000016): {better-bibtex 32909 +16}
+
+(3)(+0000000): {better-bibtex 32910 +0}
+
+(3)(+0000016): {better-bibtex 32911 +16}
+
+(3)(+0000000): {better-bibtex 32912 +0}
+
+(3)(+0000034): {better-bibtex 32913 +34}
+
+(3)(+0000000): {better-bibtex 32914 +0}
+
+(3)(+0000000): {better-bibtex 32915 +0}
+
+(3)(+0000002): {better-bibtex 32916 +2}
+
+(3)(+0000000): {better-bibtex 32917 +0}
+
+(3)(+0000000): {better-bibtex 32918 +0}
+
+(3)(+0000000): {better-bibtex 32919 +0}
+
+(3)(+0000014): {better-bibtex 32920 +14}
+
+(3)(+0000000): {better-bibtex 32921 +0}
+
+(3)(+0000000): {better-bibtex 32922 +0}
+
+(3)(+0000006): {better-bibtex 32923 +6}
+
+(3)(+0000000): {better-bibtex 32924 +0}
+
+(3)(+0000000): {better-bibtex 32925 +0}
+
+(3)(+0000018): {better-bibtex 32926 +18}
+
+(3)(+0000000): {better-bibtex 32927 +0}
+
+(3)(+0000000): {better-bibtex 32928 +0}
+
+(3)(+0000018): {better-bibtex 32929 +18}
+
+(3)(+0000000): {better-bibtex 32930 +0}
+
+(3)(+0000002): {better-bibtex 32931 +2}
+
+(3)(+0000016): {better-bibtex 32932 +16}
+
+(3)(+0000000): {better-bibtex 32933 +0}
+
+(3)(+0000000): {better-bibtex 32934 +0}
+
+(3)(+0000012): {better-bibtex 32935 +12}
+
+(3)(+0000000): {better-bibtex 32936 +0}
+
+(3)(+0000000): {better-bibtex 32937 +0}
+
+(3)(+0000024): {better-bibtex 32938 +24}
+
+(3)(+0000000): {better-bibtex 32939 +0}
+
+(3)(+0000000): {better-bibtex 32940 +0}
+
+(3)(+0000014): {better-bibtex 32941 +14}
+
+(3)(+0000000): {better-bibtex 32942 +0}
+
+(3)(+0000000): {better-bibtex 32943 +0}
+
+(3)(+0000014): {better-bibtex 32944 +14}
+
+(3)(+0000000): {better-bibtex 32945 +0}
+
+(3)(+0000000): {better-bibtex 32946 +0}
+
+(3)(+0000016): {better-bibtex 32947 +16}
+
+(3)(+0000000): {better-bibtex 32948 +0}
+
+(3)(+0000000): {better-bibtex 32949 +0}
+
+(3)(+0000014): {better-bibtex 32950 +14}
+
+(3)(+0000000): {better-bibtex 32951 +0}
+
+(3)(+0000000): {better-bibtex 32952 +0}
+
+(3)(+0000014): {better-bibtex 32953 +14}
+
+(3)(+0000000): {better-bibtex 32954 +0}
+
+(3)(+0000000): {better-bibtex 32955 +0}
+
+(3)(+0000014): {better-bibtex 32956 +14}
+
+(3)(+0000002): {better-bibtex 32957 +2}
+
+(3)(+0000000): {better-bibtex 32958 +0}
+
+(3)(+0000014): {better-bibtex 32959 +14}
+
+(3)(+0000000): {better-bibtex 32960 +0}
+
+(3)(+0000000): {better-bibtex 32961 +0}
+
+(3)(+0000020): {better-bibtex 32962 +20}
+
+(3)(+0000000): {better-bibtex 32963 +0}
+
+(3)(+0000000): {better-bibtex 32964 +0}
+
+(3)(+0000014): {better-bibtex 32965 +14}
+
+(3)(+0000002): {better-bibtex 32966 +2}
+
+(3)(+0000000): {better-bibtex 32967 +0}
+
+(3)(+0000014): {better-bibtex 32968 +14}
+
+(3)(+0000000): {better-bibtex 32969 +0}
+
+(3)(+0000000): {better-bibtex 32970 +0}
+
+(3)(+0000052): {better-bibtex 32971 +52}
+
+(3)(+0000000): {better-bibtex 32972 +0}
+
+(3)(+0000000): {better-bibtex 32973 +0}
+
+(3)(+0000030): {better-bibtex 32974 +30}
+
+(3)(+0000000): {better-bibtex 32975 +0}
+
+(3)(+0000000): {better-bibtex 32976 +0}
+
+(3)(+0000016): {better-bibtex 32977 +16}
+
+(3)(+0000000): {better-bibtex 32978 +0}
+
+(3)(+0000000): {better-bibtex 32979 +0}
+
+(3)(+0000012): {better-bibtex 32980 +12}
+
+(3)(+0000000): {better-bibtex 32981 +0}
+
+(3)(+0000000): {better-bibtex 32982 +0}
+
+(3)(+0000016): {better-bibtex 32983 +16}
+
+(3)(+0000000): {better-bibtex 32984 +0}
+
+(3)(+0000000): {better-bibtex 32985 +0}
+
+(3)(+0000012): {better-bibtex 32986 +12}
+
+(3)(+0000000): {better-bibtex 32987 +0}
+
+(3)(+0000000): {better-bibtex 32988 +0}
+
+(3)(+0000024): {better-bibtex 32989 +24}
+
+(3)(+0000000): {better-bibtex 32990 +0}
+
+(3)(+0000000): {better-bibtex 32991 +0}
+
+(3)(+0000000): {better-bibtex 32992 +0}
+
+(3)(+0000000): {better-bibtex 32993 +0}
+
+(3)(+0000002): {better-bibtex 32994 +2}
+
+(3)(+0000012): {better-bibtex 32995 +12}
+
+(3)(+0000000): {better-bibtex 32996 +0}
+
+(3)(+0000016): {better-bibtex 32997 +16}
+
+(3)(+0000000): {better-bibtex 32998 +0}
+
+(3)(+0000014): {better-bibtex 32999 +14}
+
+(3)(+0000000): {better-bibtex 33000 +0}
+
+(3)(+0000022): {better-bibtex 33001 +22}
+
+(3)(+0000000): {better-bibtex 33002 +0}
+
+(3)(+0000036): {better-bibtex 33003 +36}
+
+(3)(+0000000): {better-bibtex 33004 +0}
+
+(3)(+0000036): {better-bibtex 33005 +36}
+
+(3)(+0000000): {better-bibtex 33006 +0}
+
+(3)(+0000014): {better-bibtex 33007 +14}
+
+(3)(+0000000): {better-bibtex 33008 +0}
+
+(3)(+0000024): {better-bibtex 33009 +24}
+
+(3)(+0000000): {better-bibtex 33010 +0}
+
+(3)(+0000000): {better-bibtex 33011 +0}
+
+(3)(+0000002): {better-bibtex 33012 +2}
+
+(3)(+0000000): {better-bibtex 33013 +0}
+
+(3)(+0000000): {better-bibtex 33014 +0}
+
+(3)(+0000000): {better-bibtex 33015 +0}
+
+(3)(+0000010): {better-bibtex 33016 +10}
+
+(3)(+0000000): {better-bibtex 33017 +0}
+
+(3)(+0000000): {better-bibtex 33018 +0}
+
+(3)(+0000016): {better-bibtex 33019 +16}
+
+(3)(+0000000): {better-bibtex 33020 +0}
+
+(3)(+0000000): {better-bibtex 33021 +0}
+
+(3)(+0000014): {better-bibtex 33022 +14}
+
+(3)(+0000000): {better-bibtex 33023 +0}
+
+(3)(+0000000): {better-bibtex 33024 +0}
+
+(3)(+0000016): {better-bibtex 33025 +16}
+
+(3)(+0000000): {better-bibtex 33026 +0}
+
+(3)(+0000000): {better-bibtex 33027 +0}
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 33028 +2}
+
+(3)(+0000004): {better-bibtex 33029 +4}
+
+(3)(+0000000): {better-bibtex 33030 +0}
+
+(3)(+0000000): {better-bibtex 33031 +0}
+
+(3)(+0000006): {better-bibtex 33032 +6}
+
+(3)(+0000000): {better-bibtex 33033 +0}
+
+(3)(+0000000): {better-bibtex 33034 +0}
+
+(3)(+0000000): {better-bibtex 33035 +0}
+
+(3)(+0000000): {better-bibtex 33036 +0}
+
+(3)(+0000000): {better-bibtex 33037 +0}
+
+(3)(+0000000): {better-bibtex 33038 +0}
+
+(3)(+0000000): {better-bibtex 33039 +0}
+
+(3)(+0000000): {better-bibtex 33040 +0}
+
+(3)(+0000000): {better-bibtex 33041 +0}
+
+(3)(+0000000): {better-bibtex 33042 +0}
+
+(3)(+0000000): {better-bibtex 33043 +0}
+
+(3)(+0000000): {better-bibtex 33044 +0}
+
+(3)(+0000000): {better-bibtex 33045 +0}
+
+(3)(+0000000): {better-bibtex 33046 +0}
+
+(3)(+0000000): {better-bibtex 33047 +0}
+
+(3)(+0000000): {better-bibtex 33048 +0}
+
+(3)(+0000000): {better-bibtex 33049 +0}
+
+(3)(+0000016): {better-bibtex 33050 +16}
+
+(3)(+0000000): {better-bibtex 33051 +0}
+
+(3)(+0000000): {better-bibtex 33052 +0}
+
+(3)(+0000014): {better-bibtex 33053 +14}
+
+(3)(+0000000): {better-bibtex 33054 +0}
+
+(3)(+0000004): {better-bibtex 33055 +4}
+
+(3)(+0000000): {better-bibtex 33056 +0}
+
+(3)(+0000000): {better-bibtex 33057 +0}
+
+(3)(+0000000): {better-bibtex 33058 +0}
+
+(3)(+0000010): {better-bibtex 33059 +10}
+
+(3)(+0000000): {better-bibtex 33060 +0}
+
+(3)(+0000022): {better-bibtex 33061 +22}
+
+(3)(+0000000): {better-bibtex 33062 +0}
+
+(3)(+0000112): {better-bibtex 33063 +112}
+
+(3)(+0000000): {better-bibtex 33064 +0}
+
+(3)(+0000014): {better-bibtex 33065 +14}
+
+(3)(+0000000): {better-bibtex 33066 +0}
+
+(3)(+0000028): {better-bibtex 33067 +28}
+
+(3)(+0000000): {better-bibtex 33068 +0}
+
+(3)(+0000024): {better-bibtex 33069 +24}
+
+(3)(+0000000): {better-bibtex 33070 +0}
+
+(3)(+0000016): {better-bibtex 33071 +16}
+
+(3)(+0000000): {better-bibtex 33072 +0}
+
+(3)(+0000012): {better-bibtex 33073 +12}
+
+(3)(+0000000): {better-bibtex 33074 +0}
+
+(3)(+0000016): {better-bibtex 33075 +16}
+
+(3)(+0000000): {better-bibtex 33076 +0}
+
+(3)(+0000014): {better-bibtex 33077 +14}
+
+(3)(+0000000): {better-bibtex 33078 +0}
+
+(3)(+0000014): {better-bibtex 33079 +14}
+
+(3)(+0000000): {better-bibtex 33080 +0}
+
+(3)(+0000014): {better-bibtex 33081 +14}
+
+(3)(+0000000): {better-bibtex 33082 +0}
+
+(3)(+0000016): {better-bibtex 33083 +16}
+
+(3)(+0000000): {better-bibtex 33084 +0}
+
+(3)(+0000024): {better-bibtex 33085 +24}
+
+(3)(+0000000): {better-bibtex 33086 +0}
+
+(3)(+0000010): {better-bibtex 33087 +10}
+
+(3)(+0000000): {better-bibtex 33088 +0}
+
+(3)(+0000016): {better-bibtex 33089 +16}
+
+(3)(+0000000): {better-bibtex 33090 +0}
+
+(3)(+0000022): {better-bibtex 33091 +22}
+
+(3)(+0000000): {better-bibtex 33092 +0}
+
+(3)(+0000014): {better-bibtex 33093 +14}
+
+(3)(+0000000): {better-bibtex 33094 +0}
+
+(3)(+0000014): {better-bibtex 33095 +14}
+
+(3)(+0000002): {better-bibtex 33096 +2}
+
+(3)(+0000008): {better-bibtex 33097 +8}
+
+(3)(+0000000): {better-bibtex 33098 +0}
+
+(3)(+0000000): {better-bibtex 33099 +0}
+
+(3)(+0000000): {better-bibtex 33100 +0}
+
+(3)(+0000000): {better-bibtex 33101 +0}
+
+(3)(+0000000): {better-bibtex 33102 +0}
+
+(3)(+0000000): {better-bibtex 33103 +0}
+
+(3)(+0000000): {better-bibtex 33104 +0}
+
+(3)(+0000000): {better-bibtex 33105 +0}
+
+(3)(+0000000): {better-bibtex 33106 +0}
+
+(3)(+0000000): {better-bibtex 33107 +0}
+
+(3)(+0000000): {better-bibtex 33108 +0}
+
+(3)(+0000000): {better-bibtex 33109 +0}
+
+(3)(+0000000): {better-bibtex 33110 +0}
+
+(3)(+0000000): {better-bibtex 33111 +0}
+
+(3)(+0000000): {better-bibtex 33112 +0}
+
+(3)(+0000000): {better-bibtex 33113 +0}
+
+(3)(+0000000): {better-bibtex 33114 +0}
+
+(3)(+0000002): {better-bibtex 33115 +2}
+
+(3)(+0000000): {better-bibtex 33116 +0}
+
+(3)(+0000000): {better-bibtex 33117 +0}
+
+(3)(+0000000): {better-bibtex 33118 +0}
+
+(3)(+0000000): {better-bibtex 33119 +0}
+
+(3)(+0000000): {better-bibtex 33120 +0}
+
+(3)(+0000000): {better-bibtex 33121 +0}
+
+(3)(+0000000): {better-bibtex 33122 +0}
+
+(3)(+0000000): {better-bibtex 33123 +0}
+
+(3)(+0000000): {better-bibtex 33124 +0}
+
+(3)(+0000000): {better-bibtex 33125 +0}
+
+(3)(+0000000): {better-bibtex 33126 +0}
+
+(3)(+0000002): {better-bibtex 33127 +2}
+
+(3)(+0000000): {better-bibtex 33128 +0}
+
+(3)(+0000000): {better-bibtex 33129 +0}
+
+(3)(+0000000): {better-bibtex 33130 +0}
+
+(3)(+0000000): {better-bibtex 33131 +0}
+
+(3)(+0000000): {better-bibtex 33132 +0}
+
+(3)(+0000002): {better-bibtex 33133 +0}
+
+(3)(+0000000): {better-bibtex 33134 +2}
+
+(3)(+0000000): {better-bibtex 33135 +0}
+
+(3)(+0000000): {better-bibtex 33136 +0}
+
+(3)(+0000000): {better-bibtex 33137 +0}
+
+(3)(+0000000): {better-bibtex 33138 +0}
+
+(3)(+0000000): {better-bibtex 33139 +0}
+
+(3)(+0000000): {better-bibtex 33140 +0}
+
+(3)(+0000000): {better-bibtex 33141 +0}
+
+(3)(+0000000): {better-bibtex 33142 +0}
+
+(3)(+0000000): {better-bibtex 33143 +0}
+
+(3)(+0000000): {better-bibtex 33144 +0}
+
+(3)(+0000000): {better-bibtex 33145 +0}
+
+(3)(+0000000): {better-bibtex 33146 +0}
+
+(3)(+0000000): {better-bibtex 33147 +0}
+
+(3)(+0000000): {better-bibtex 33148 +0}
+
+(3)(+0000000): {better-bibtex 33149 +0}
+
+(3)(+0000000): {better-bibtex 33150 +0}
+
+(3)(+0000024): {better-bibtex 33151 +24}
+
+(3)(+0000000): {better-bibtex 33152 +0}
+
+(3)(+0000000): {better-bibtex 33153 +0}
+
+(3)(+0000000): {better-bibtex 33154 +0}
+
+(3)(+0000000): {better-bibtex 33155 +0}
+
+(3)(+0000000): {better-bibtex 33156 +0}
+
+(3)(+0000000): {better-bibtex 33157 +0}
+
+(3)(+0000000): {better-bibtex 33158 +0}
+
+(3)(+0000000): {better-bibtex 33159 +0}
+
+(3)(+0000000): {better-bibtex 33160 +0}
+
+(3)(+0000000): {better-bibtex 33161 +0}
+
+(3)(+0000000): {better-bibtex 33162 +0}
+
+(3)(+0000000): {better-bibtex 33163 +0}
+
+(3)(+0000000): {better-bibtex 33164 +0}
+
+(3)(+0000000): {better-bibtex 33165 +0}
+
+(3)(+0000000): {better-bibtex 33166 +0}
+
+(3)(+0000002): {better-bibtex 33167 +2}
+
+(3)(+0000000): {better-bibtex 33168 +0}
+
+(3)(+0000442): {better-bibtex 33169 +442}
+
+(4)(+0000002): Beginning DB transaction GotzzxHu
+
+(3)(+0000000): {better-bibtex 33170 +2}
+
+(4)(+0000002): REPLACE INTO "better-bibtex" (name, data) VALUES (?, ?)
+['better-bibtex.autoexport',
+'{"name":"autoexport","data":[{"type":"library","id":1,"path":"C:\\Users\\llinfeng\\Nutstore\\Research\\Zotero_Full_Synced.bib","status":"done","translatorID":"f895aa0d-f28e-47fe-b247-2ea77c6ed583","exportNotes":true,"useJournalAbbreviation":false,"error":"translation
+failed","meta":{"revision":820,"created":1524424093289,"version":0,"updated":1531751562988},"$loki":1},{"type":"collection","id":14,"path":"C:\\Users\\llinfeng\\Nutstore\\Research\\a_Audit_Studies.bib","status":"done","translatorID":"f895aa0d-f28e-47fe-b247-2ea77c6ed583","exportNotes":false,"useJournalAbbreviation":false,"error":"","meta":{"revision":8,"created":1531751095120,"version":0,"updated":1531751561392},"$loki":3},{"type":"library","id":1,"path":"C:\\Users\\llinfeng\\Nutstore\\Research\\Zotero_Full_Synced_BibTex.bib","status":"done","translatorID":"ca65189f-8815-4afe-8c8b-8c7c15f0edca","exportNotes":false,"useJournalAbbreviation":false,"error":"translation
+failed","meta":{"revision":10,"created":1531751272418,"version":0,"updated":1531751688912},"$loki":4}],"idIndex":[1,3,4],"binaryIndices":{"type":{"name":"type","dirty":true,"values":[1,0,2]},"id":{"name":"id","dirty":true,"values":[0]},"status":{"name":"status","dirty":true,"values":[0]},"path":{"name":"path","dirty":true,"values":[0,1]},"exportNotes":{"name":"exportNotes","dirty":true,"values":[0]},"translatorID":{"name":"translatorID","dirty":true,"values":[0]},"useJournalAbbreviation":{"name":"useJournalAbbreviation","dirty":true,"values":[0]}},"constraints":null,"uniqueNames":["path"],"transforms":{},"objType":"autoexport","dirty":true,"cachedIndex":null,"cachedBinaryIndex":null,"cachedData":null,"adaptiveBinaryIndices":false,"transactional":false,"cloneObjects":true,"cloneMethod":"parse-stringify","asyncListeners":false,"disableChangesApi":true,"disableDeltaChangesApi":true,"autoupdate":false,"serializableIndices":true,"ttl":null,"maxId":4,"DynamicViews":[],"events":{"insert":[],"update":[],"pre-insert":[],"pre-update":[],"close":[],"flushbuffer":[],"error":[],"delete":[null],"warning":[null]},"changes":[]}']
+
+(4)(+0000002): REPLACE INTO "better-bibtex" (name, data) VALUES (?, ?)
+['better-bibtex',
+'{"filename":"better-bibtex","collections":["better-bibtex.citekey","better-bibtex.autoexport"],"databaseVersion":1.5,"engineVersion":1.5,"autosave":false,"autosaveInterval":5000,"autosaveHandle":null,"throttledSaves":false,"options":{"env":"NA","serializationMethod":"normal","destructureDelimiter":"$<\n"},"persistenceAdapter":null,"throttledSavePending":false,"throttledCallbacks":[],"verbose":false,"events":{"init":[null],"loaded":[],"flushChanges":[],"close":[],"changes":[],"warning":[]},"ENV":"NA"}']
+
+(4)(+0000034): Committed DB transaction GotzzxHu
+
+(3)(+0000020): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 33171 +58}
+
+(3)(+0000010): {better-bibtex 33172 +10}
+
+(3)(+0000000): {better-bibtex 33173 +0}
+
+(3)(+0000000): {better-bibtex 33174 +0}
+
+(3)(+0000000): {better-bibtex 33175 +0}
+
+(3)(+0000000): {better-bibtex 33176 +0}
+
+(3)(+0000000): {better-bibtex 33177 +0}
+
+(3)(+0000000): {better-bibtex 33178 +0}
+
+(3)(+0000000): {better-bibtex 33179 +0}
+
+(3)(+0000000): {better-bibtex 33180 +0}
+
+(3)(+0000000): {better-bibtex 33181 +0}
+
+(3)(+0000000): {better-bibtex 33182 +0}
+
+(3)(+0000000): {better-bibtex 33183 +0}
+
+(3)(+0000000): {better-bibtex 33184 +0}
+
+(3)(+0000000): {better-bibtex 33185 +0}
+
+(3)(+0000002): {better-bibtex 33186 +2}
+
+(3)(+0000000): {better-bibtex 33187 +0}
+
+(3)(+0000000): {better-bibtex 33188 +0}
+
+(3)(+0000000): {better-bibtex 33189 +0}
+
+(3)(+0000988): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 33190 +988}
+
+(3)(+0000014): {better-bibtex 33191 +14}
+
+(3)(+0000000): {better-bibtex 33192 +0}
+
+(3)(+0000000): {better-bibtex 33193 +0}
+
+(3)(+0000000): {better-bibtex 33194 +0}
+
+(3)(+0000000): {better-bibtex 33195 +0}
+
+(3)(+0000000): {better-bibtex 33196 +0}
+
+(3)(+0000000): {better-bibtex 33197 +0}
+
+(3)(+0000000): {better-bibtex 33198 +0}
+
+(3)(+0000000): {better-bibtex 33199 +0}
+
+(3)(+0000000): {better-bibtex 33200 +0}
+
+(3)(+0000000): {better-bibtex 33201 +0}
+
+(3)(+0000000): {better-bibtex 33202 +0}
+
+(3)(+0000000): {better-bibtex 33203 +0}
+
+(3)(+0000000): {better-bibtex 33204 +0}
+
+(3)(+0000000): {better-bibtex 33205 +0}
+
+(3)(+0000000): {better-bibtex 33206 +0}
+
+(3)(+0000002): {better-bibtex 33207 +0}
+
+(3)(+0000000): {better-bibtex 33208 +2}
+
+(3)(+0000984): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 33209 +984}
+
+(3)(+0000002): {better-bibtex 33210 +2}
+
+(3)(+0000000): {better-bibtex 33211 +0}
+
+(3)(+0000002): {better-bibtex 33212 +2}
+
+(3)(+0000000): {better-bibtex 33213 +0}
+
+(3)(+0000000): {better-bibtex 33214 +0}
+
+(3)(+0000000): {better-bibtex 33215 +0}
+
+(3)(+0000000): {better-bibtex 33216 +0}
+
+(3)(+0000000): {better-bibtex 33217 +0}
+
+(3)(+0000000): {better-bibtex 33218 +0}
+
+(3)(+0000000): {better-bibtex 33219 +0}
+
+(3)(+0000000): {better-bibtex 33220 +0}
+
+(3)(+0000000): {better-bibtex 33221 +0}
+
+(3)(+0000000): {better-bibtex 33222 +0}
+
+(3)(+0000000): {better-bibtex 33223 +0}
+
+(3)(+0000000): {better-bibtex 33224 +0}
+
+(3)(+0000000): {better-bibtex 33225 +0}
+
+(3)(+0000000): {better-bibtex 33226 +0}
+
+(3)(+0000000): {better-bibtex 33227 +0}
+
+(3)(+0000996): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 33228 +996}
+
+(3)(+0000010): {better-bibtex 33229 +10}
+
+(3)(+0000000): {better-bibtex 33230 +0}
+
+(3)(+0000000): {better-bibtex 33231 +0}
+
+(3)(+0000000): {better-bibtex 33232 +0}
+
+(3)(+0000000): {better-bibtex 33233 +0}
+
+(3)(+0000000): {better-bibtex 33234 +0}
+
+(3)(+0000000): {better-bibtex 33235 +0}
+
+(3)(+0000000): {better-bibtex 33236 +0}
+
+(3)(+0000000): {better-bibtex 33237 +0}
+
+(3)(+0000000): {better-bibtex 33238 +0}
+
+(3)(+0000000): {better-bibtex 33239 +0}
+
+(3)(+0000000): {better-bibtex 33240 +0}
+
+(3)(+0000000): {better-bibtex 33241 +0}
+
+(3)(+0000000): {better-bibtex 33242 +0}
+
+(3)(+0000000): {better-bibtex 33243 +0}
+
+(3)(+0000000): {better-bibtex 33244 +0}
+
+(3)(+0000000): {better-bibtex 33245 +0}
+
+(3)(+0000000): {better-bibtex 33246 +0}
+
+(3)(+0000990): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 33247 +992}
+
+(3)(+0000002): {better-bibtex 33248 +2}
+
+(3)(+0000000): {better-bibtex 33249 +0}
+
+(3)(+0000000): {better-bibtex 33250 +0}
+
+(3)(+0000000): {better-bibtex 33251 +0}
+
+(3)(+0000000): {better-bibtex 33252 +0}
+
+(3)(+0000000): {better-bibtex 33253 +0}
+
+(3)(+0000000): {better-bibtex 33254 +0}
+
+(3)(+0000000): {better-bibtex 33255 +0}
+
+(3)(+0000000): {better-bibtex 33256 +0}
+
+(3)(+0000000): {better-bibtex 33257 +0}
+
+(3)(+0000000): {better-bibtex 33258 +0}
+
+(3)(+0000000): {better-bibtex 33259 +0}
+
+(3)(+0000000): {better-bibtex 33260 +0}
+
+(3)(+0000000): {better-bibtex 33261 +0}
+
+(3)(+0000002): {better-bibtex 33262 +2}
+
+(3)(+0000000): {better-bibtex 33263 +0}
+
+(3)(+0000000): {better-bibtex 33264 +0}
+
+(3)(+0000000): {better-bibtex 33265 +0}
+
+(3)(+0000994): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 33266 +994}
+
+(3)(+0000002): {better-bibtex 33267 +2}
+
+(3)(+0000000): {better-bibtex 33268 +0}
+
+(3)(+0000000): {better-bibtex 33269 +0}
+
+(3)(+0000000): {better-bibtex 33270 +0}
+
+(3)(+0000000): {better-bibtex 33271 +0}
+
+(3)(+0000000): {better-bibtex 33272 +0}
+
+(3)(+0000000): {better-bibtex 33273 +0}
+
+(3)(+0000000): {better-bibtex 33274 +0}
+
+(3)(+0000000): {better-bibtex 33275 +0}
+
+(3)(+0000002): {better-bibtex 33276 +2}
+
+(3)(+0000000): {better-bibtex 33277 +0}
+
+(3)(+0000000): {better-bibtex 33278 +0}
+
+(3)(+0000000): {better-bibtex 33279 +0}
+
+(3)(+0000000): {better-bibtex 33280 +0}
+
+(3)(+0000000): {better-bibtex 33281 +0}
+
+(3)(+0000000): {better-bibtex 33282 +0}
+
+(3)(+0000000): {better-bibtex 33283 +0}
+
+(3)(+0000000): {better-bibtex 33284 +0}
+
+(3)(+0000996): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000002): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 33285 +1000}
+
+(3)(+0000008): {better-bibtex 33286 +8}
+
+(3)(+0000000): {better-bibtex 33287 +0}
+
+(3)(+0000000): {better-bibtex 33288 +0}
+
+(3)(+0000000): {better-bibtex 33289 +0}
+
+(3)(+0000002): {better-bibtex 33290 +2}
+
+(3)(+0000000): {better-bibtex 33291 +0}
+
+(3)(+0000000): {better-bibtex 33292 +0}
+
+(3)(+0000000): {better-bibtex 33293 +0}
+
+(3)(+0000000): {better-bibtex 33294 +0}
+
+(3)(+0000000): {better-bibtex 33295 +0}
+
+(3)(+0000000): {better-bibtex 33296 +0}
+
+(3)(+0000000): {better-bibtex 33297 +0}
+
+(3)(+0000000): {better-bibtex 33298 +0}
+
+(3)(+0000000): {better-bibtex 33299 +0}
+
+(3)(+0000000): {better-bibtex 33300 +0}
+
+(3)(+0000000): {better-bibtex 33301 +0}
+
+(3)(+0000000): {better-bibtex 33302 +0}
+
+(3)(+0000000): {better-bibtex 33303 +0}
+
+(3)(+0000984): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000002): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 33304 +990}
+
+(3)(+0000008): {better-bibtex 33305 +8}
+
+(3)(+0000000): {better-bibtex 33306 +0}
+
+(3)(+0000000): {better-bibtex 33307 +0}
+
+(3)(+0000000): {better-bibtex 33308 +0}
+
+(3)(+0000002): {better-bibtex 33309 +2}
+
+(3)(+0000000): {better-bibtex 33310 +0}
+
+(3)(+0000000): {better-bibtex 33311 +0}
+
+(3)(+0000000): {better-bibtex 33312 +0}
+
+(3)(+0000000): {better-bibtex 33313 +0}
+
+(3)(+0000000): {better-bibtex 33314 +0}
+
+(3)(+0000000): {better-bibtex 33315 +0}
+
+(3)(+0000000): {better-bibtex 33316 +0}
+
+(3)(+0000000): {better-bibtex 33317 +0}
+
+(3)(+0000000): {better-bibtex 33318 +0}
+
+(3)(+0000000): {better-bibtex 33319 +0}
+
+(3)(+0000000): {better-bibtex 33320 +0}
+
+(3)(+0000000): {better-bibtex 33321 +0}
+
+(3)(+0000000): {better-bibtex 33322 +0}
+
+(3)(+0000984): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000002): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 33323 +990}
+
+(3)(+0000008): {better-bibtex 33324 +8}
+
+(3)(+0000000): {better-bibtex 33325 +0}
+
+(3)(+0000000): {better-bibtex 33326 +0}
+
+(3)(+0000000): {better-bibtex 33327 +0}
+
+(3)(+0000000): {better-bibtex 33328 +0}
+
+(3)(+0000000): {better-bibtex 33329 +0}
+
+(3)(+0000000): {better-bibtex 33330 +0}
+
+(3)(+0000000): {better-bibtex 33331 +0}
+
+(3)(+0000000): {better-bibtex 33332 +0}
+
+(3)(+0000000): {better-bibtex 33333 +0}
+
+(3)(+0000000): {better-bibtex 33334 +0}
+
+(3)(+0000000): {better-bibtex 33335 +0}
+
+(3)(+0000002): {better-bibtex 33336 +2}
+
+(3)(+0000000): {better-bibtex 33337 +0}
+
+(3)(+0000000): {better-bibtex 33338 +0}
+
+(3)(+0000000): {better-bibtex 33339 +0}
+
+(3)(+0000000): {better-bibtex 33340 +0}
+
+(3)(+0000000): {better-bibtex 33341 +0}
+
+(3)(+0000986): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 33342 +992}
+
+(3)(+0000006): {better-bibtex 33343 +6}
+
+(3)(+0000000): {better-bibtex 33344 +0}
+
+(3)(+0000000): {better-bibtex 33345 +0}
+
+(3)(+0000000): {better-bibtex 33346 +0}
+
+(3)(+0000000): {better-bibtex 33347 +0}
+
+(3)(+0000000): {better-bibtex 33348 +0}
+
+(3)(+0000000): {better-bibtex 33349 +0}
+
+(3)(+0000000): {better-bibtex 33350 +0}
+
+(3)(+0000000): {better-bibtex 33351 +0}
+
+(3)(+0000000): {better-bibtex 33352 +0}
+
+(3)(+0000000): {better-bibtex 33353 +0}
+
+(3)(+0000000): {better-bibtex 33354 +0}
+
+(3)(+0000000): {better-bibtex 33355 +0}
+
+(3)(+0000000): {better-bibtex 33356 +0}
+
+(3)(+0000002): {better-bibtex 33357 +2}
+
+(3)(+0000000): {better-bibtex 33358 +0}
+
+(3)(+0000000): {better-bibtex 33359 +0}
+
+(3)(+0000000): {better-bibtex 33360 +0}
+
+(3)(+0000986): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000002): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 33361 +992}
+
+(3)(+0000004): {better-bibtex 33362 +4}
+
+(3)(+0000000): {better-bibtex 33363 +0}
+
+(3)(+0000000): {better-bibtex 33364 +0}
+
+(3)(+0000002): {better-bibtex 33365 +2}
+
+(3)(+0000000): {better-bibtex 33366 +0}
+
+(3)(+0000000): {better-bibtex 33367 +0}
+
+(3)(+0000000): {better-bibtex 33368 +0}
+
+(3)(+0000000): {better-bibtex 33369 +0}
+
+(3)(+0000000): {better-bibtex 33370 +0}
+
+(3)(+0000000): {better-bibtex 33371 +0}
+
+(3)(+0000000): {better-bibtex 33372 +0}
+
+(3)(+0000000): {better-bibtex 33373 +0}
+
+(3)(+0000000): {better-bibtex 33374 +0}
+
+(3)(+0000000): {better-bibtex 33375 +0}
+
+(3)(+0000000): {better-bibtex 33376 +0}
+
+(3)(+0000000): {better-bibtex 33377 +0}
+
+(3)(+0000000): {better-bibtex 33378 +0}
+
+(3)(+0000000): {better-bibtex 33379 +0}
+
+(3)(+0000986): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000002): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): {better-bibtex 33380 +994}
+
+(3)(+0000004): {better-bibtex 33381 +4}
+
+(3)(+0000000): {better-bibtex 33382 +0}
+
+(3)(+0000000): {better-bibtex 33383 +0}
+
+(3)(+0000000): {better-bibtex 33384 +0}
+
+(3)(+0000000): {better-bibtex 33385 +0}
+
+(3)(+0000000): {better-bibtex 33386 +0}
+
+(3)(+0000002): {better-bibtex 33387 +0}
+
+(3)(+0000000): {better-bibtex 33388 +2}
+
+(3)(+0000000): {better-bibtex 33389 +0}
+
+(3)(+0000000): {better-bibtex 33390 +0}
+
+(3)(+0000000): {better-bibtex 33391 +0}
+
+(3)(+0000000): {better-bibtex 33392 +0}
+
+(3)(+0000000): {better-bibtex 33393 +0}
+
+(3)(+0000000): {better-bibtex 33394 +0}
+
+(3)(+0000000): {better-bibtex 33395 +0}
+
+(3)(+0000000): {better-bibtex 33396 +0}
+
+(3)(+0000000): {better-bibtex 33397 +0}
+
+(3)(+0000000): {better-bibtex 33398 +0}
+
+(3)(+0000988): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 33399 +992}
+
+(3)(+0000010): {better-bibtex 33400 +10}
+
+(3)(+0000000): {better-bibtex 33401 +0}
+
+(3)(+0000000): {better-bibtex 33402 +0}
+
+(3)(+0000002): {better-bibtex 33403 +2}
+
+(3)(+0000000): {better-bibtex 33404 +0}
+
+(3)(+0000000): {better-bibtex 33405 +0}
+
+(3)(+0000000): {better-bibtex 33406 +0}
+
+(3)(+0000000): {better-bibtex 33407 +0}
+
+(3)(+0000000): {better-bibtex 33408 +0}
+
+(3)(+0000000): {better-bibtex 33409 +0}
+
+(3)(+0000000): {better-bibtex 33410 +0}
+
+(3)(+0000000): {better-bibtex 33411 +0}
+
+(3)(+0000000): {better-bibtex 33412 +0}
+
+(3)(+0000002): {better-bibtex 33413 +2}
+
+(3)(+0000000): {better-bibtex 33414 +0}
+
+(3)(+0000000): {better-bibtex 33415 +0}
+
+(3)(+0000000): {better-bibtex 33416 +0}
+
+(3)(+0000000): {better-bibtex 33417 +0}
+
+(3)(+0000982): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000002): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): {better-bibtex 33418 +988}
+
+(3)(+0000006): {better-bibtex 33419 +6}
+
+(3)(+0000000): {better-bibtex 33420 +0}
+
+(3)(+0000000): {better-bibtex 33421 +0}
+
+(3)(+0000000): {better-bibtex 33422 +0}
+
+(3)(+0000000): {better-bibtex 33423 +0}
+
+(3)(+0000000): {better-bibtex 33424 +0}
+
+(3)(+0000002): {better-bibtex 33425 +2}
+
+(3)(+0000000): {better-bibtex 33426 +0}
+
+(3)(+0000000): {better-bibtex 33427 +0}
+
+(3)(+0000000): {better-bibtex 33428 +0}
+
+(3)(+0000000): {better-bibtex 33429 +0}
+
+(3)(+0000000): {better-bibtex 33430 +0}
+
+(3)(+0000000): {better-bibtex 33431 +0}
+
+(3)(+0000000): {better-bibtex 33432 +0}
+
+(3)(+0000000): {better-bibtex 33433 +0}
+
+(3)(+0000000): {better-bibtex 33434 +0}
+
+(3)(+0000000): {better-bibtex 33435 +0}
+
+(3)(+0000000): {better-bibtex 33436 +0}
+
+(3)(+0000986): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): {better-bibtex 33437 +992}
+
+(3)(+0000006): {better-bibtex 33438 +6}
+
+(3)(+0000000): {better-bibtex 33439 +0}
+
+(3)(+0000002): {better-bibtex 33440 +2}
+
+(3)(+0000000): {better-bibtex 33441 +0}
+
+(3)(+0000000): {better-bibtex 33442 +0}
+
+(3)(+0000000): {better-bibtex 33443 +0}
+
+(3)(+0000000): {better-bibtex 33444 +0}
+
+(3)(+0000000): {better-bibtex 33445 +0}
+
+(3)(+0000002): {better-bibtex 33446 +2}
+
+(3)(+0000000): {better-bibtex 33447 +0}
+
+(3)(+0000000): {better-bibtex 33448 +0}
+
+(3)(+0000000): {better-bibtex 33449 +0}
+
+(3)(+0000000): {better-bibtex 33450 +0}
+
+(3)(+0000000): {better-bibtex 33451 +0}
+
+(3)(+0000000): {better-bibtex 33452 +0}
+
+(3)(+0000000): {better-bibtex 33453 +0}
+
+(3)(+0000000): {better-bibtex 33454 +0}
+
+(3)(+0000000): {better-bibtex 33455 +0}
+
+(3)(+0001336): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000002): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): {better-bibtex 33456 +1344}
+
+(3)(+0000004): {better-bibtex 33457 +4}
+
+(3)(+0000000): {better-bibtex 33458 +0}
+
+(3)(+0000000): {better-bibtex 33459 +0}
+
+(3)(+0000000): {better-bibtex 33460 +0}
+
+(3)(+0000000): {better-bibtex 33461 +0}
+
+(3)(+0000002): {better-bibtex 33462 +2}
+
+(3)(+0000000): {better-bibtex 33463 +0}
+
+(3)(+0000000): {better-bibtex 33464 +0}
+
+(3)(+0000000): {better-bibtex 33465 +0}
+
+(3)(+0000000): {better-bibtex 33466 +0}
+
+(3)(+0000000): {better-bibtex 33467 +0}
+
+(3)(+0000000): {better-bibtex 33468 +0}
+
+(3)(+0000000): {better-bibtex 33469 +0}
+
+(3)(+0000000): {better-bibtex 33470 +0}
+
+(3)(+0000000): {better-bibtex 33471 +0}
+
+(3)(+0000000): {better-bibtex 33472 +0}
+
+(3)(+0000000): {better-bibtex 33473 +0}
+
+(3)(+0000000): {better-bibtex 33474 +0}
+
+(3)(+0000636): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): {better-bibtex 33475 +642}
+
+(3)(+0000006): {better-bibtex 33476 +6}
+
+(3)(+0000000): {better-bibtex 33477 +0}
+
+(3)(+0000000): {better-bibtex 33478 +0}
+
+(3)(+0000000): {better-bibtex 33479 +0}
+
+(3)(+0000000): {better-bibtex 33480 +0}
+
+(3)(+0000000): {better-bibtex 33481 +0}
+
+(3)(+0000000): {better-bibtex 33482 +0}
+
+(3)(+0000000): {better-bibtex 33483 +0}
+
+(3)(+0000000): {better-bibtex 33484 +0}
+
+(3)(+0000000): {better-bibtex 33485 +0}
+
+(3)(+0000000): {better-bibtex 33486 +0}
+
+(3)(+0000002): {better-bibtex 33487 +2}
+
+(3)(+0000000): {better-bibtex 33488 +0}
+
+(3)(+0000000): {better-bibtex 33489 +0}
+
+(3)(+0000000): {better-bibtex 33490 +0}
+
+(3)(+0000000): {better-bibtex 33491 +0}
+
+(3)(+0000000): {better-bibtex 33492 +0}
+
+(3)(+0000000): {better-bibtex 33493 +0}
+
+(3)(+0000984): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000002): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 33494 +990}
+
+(3)(+0000004): {better-bibtex 33495 +4}
+
+(3)(+0000000): {better-bibtex 33496 +0}
+
+(3)(+0000002): {better-bibtex 33497 +2}
+
+(3)(+0000000): {better-bibtex 33498 +0}
+
+(3)(+0000000): {better-bibtex 33499 +0}
+
+(3)(+0000000): {better-bibtex 33500 +0}
+
+(3)(+0000000): {better-bibtex 33501 +0}
+
+(3)(+0000000): {better-bibtex 33502 +0}
+
+(3)(+0000000): {better-bibtex 33503 +0}
+
+(3)(+0000000): {better-bibtex 33504 +0}
+
+(3)(+0000000): {better-bibtex 33505 +0}
+
+(3)(+0000000): {better-bibtex 33506 +0}
+
+(3)(+0000000): {better-bibtex 33507 +0}
+
+(3)(+0000000): {better-bibtex 33508 +0}
+
+(3)(+0000000): {better-bibtex 33509 +0}
+
+(3)(+0000000): {better-bibtex 33510 +0}
+
+(3)(+0000000): {better-bibtex 33511 +0}
+
+(3)(+0000002): {better-bibtex 33512 +2}
+
+(3)(+0000988): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000002): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 33513 +994}
+
+(3)(+0000006): {better-bibtex 33514 +6}
+
+(3)(+0000000): {better-bibtex 33515 +0}
+
+(3)(+0000000): {better-bibtex 33516 +0}
+
+(3)(+0000000): {better-bibtex 33517 +0}
+
+(3)(+0000000): {better-bibtex 33518 +0}
+
+(3)(+0000000): {better-bibtex 33519 +0}
+
+(3)(+0000000): {better-bibtex 33520 +0}
+
+(3)(+0000000): {better-bibtex 33521 +0}
+
+(3)(+0000000): {better-bibtex 33522 +0}
+
+(3)(+0000000): {better-bibtex 33523 +0}
+
+(3)(+0000000): {better-bibtex 33524 +0}
+
+(3)(+0000000): {better-bibtex 33525 +0}
+
+(3)(+0000000): {better-bibtex 33526 +0}
+
+(3)(+0000000): {better-bibtex 33527 +0}
+
+(3)(+0000000): {better-bibtex 33528 +0}
+
+(3)(+0000002): {better-bibtex 33529 +2}
+
+(3)(+0000000): {better-bibtex 33530 +0}
+
+(3)(+0000000): {better-bibtex 33531 +0}
+
+(3)(+0000984): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000002): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): {better-bibtex 33532 +990}
+
+(3)(+0000006): {better-bibtex 33533 +6}
+
+(3)(+0000000): {better-bibtex 33534 +0}
+
+(3)(+0000000): {better-bibtex 33535 +0}
+
+(3)(+0000000): {better-bibtex 33536 +0}
+
+(3)(+0000000): {better-bibtex 33537 +0}
+
+(3)(+0000002): {better-bibtex 33538 +2}
+
+(3)(+0000000): {better-bibtex 33539 +0}
+
+(3)(+0000000): {better-bibtex 33540 +0}
+
+(3)(+0000000): {better-bibtex 33541 +0}
+
+(3)(+0000000): {better-bibtex 33542 +0}
+
+(3)(+0000000): {better-bibtex 33543 +0}
+
+(3)(+0000000): {better-bibtex 33544 +0}
+
+(3)(+0000000): {better-bibtex 33545 +0}
+
+(3)(+0000000): {better-bibtex 33546 +0}
+
+(3)(+0000000): {better-bibtex 33547 +0}
+
+(3)(+0000000): {better-bibtex 33548 +0}
+
+(3)(+0000000): {better-bibtex 33549 +0}
+
+(3)(+0000002): {better-bibtex 33550 +2}
+
+(3)(+0000984): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000002): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 33551 +990}
+
+(3)(+0000006): {better-bibtex 33552 +6}
+
+(3)(+0000000): {better-bibtex 33553 +0}
+
+(3)(+0000000): {better-bibtex 33554 +0}
+
+(3)(+0000000): {better-bibtex 33555 +0}
+
+(3)(+0000000): {better-bibtex 33556 +0}
+
+(3)(+0000000): {better-bibtex 33557 +0}
+
+(3)(+0000000): {better-bibtex 33558 +0}
+
+(3)(+0000002): {better-bibtex 33559 +2}
+
+(3)(+0000000): {better-bibtex 33560 +0}
+
+(3)(+0000000): {better-bibtex 33561 +0}
+
+(3)(+0000000): {better-bibtex 33562 +0}
+
+(3)(+0000000): {better-bibtex 33563 +0}
+
+(3)(+0000000): {better-bibtex 33564 +0}
+
+(3)(+0000000): {better-bibtex 33565 +0}
+
+(3)(+0000000): {better-bibtex 33566 +0}
+
+(3)(+0000000): {better-bibtex 33567 +0}
+
+(3)(+0000000): {better-bibtex 33568 +0}
+
+(3)(+0000000): {better-bibtex 33569 +0}
+
+(3)(+0000986): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): {better-bibtex 33570 +994}
+
+(3)(+0000004): {better-bibtex 33571 +4}
+
+(3)(+0000000): {better-bibtex 33572 +0}
+
+(3)(+0000000): {better-bibtex 33573 +0}
+
+(3)(+0000000): {better-bibtex 33574 +0}
+
+(3)(+0000002): {better-bibtex 33575 +2}
+
+(3)(+0000000): {better-bibtex 33576 +0}
+
+(3)(+0000000): {better-bibtex 33577 +0}
+
+(3)(+0000000): {better-bibtex 33578 +0}
+
+(3)(+0000000): {better-bibtex 33579 +0}
+
+(3)(+0000000): {better-bibtex 33580 +0}
+
+(3)(+0000000): {better-bibtex 33581 +0}
+
+(3)(+0000000): {better-bibtex 33582 +0}
+
+(3)(+0000000): {better-bibtex 33583 +0}
+
+(3)(+0000000): {better-bibtex 33584 +0}
+
+(3)(+0000000): {better-bibtex 33585 +0}
+
+(3)(+0000002): {better-bibtex 33586 +2}
+
+(3)(+0000000): {better-bibtex 33587 +0}
+
+(3)(+0000000): {better-bibtex 33588 +0}
+
+(3)(+0000988): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 33589 +994}
+
+(3)(+0000008): {better-bibtex 33590 +8}
+
+(3)(+0000000): {better-bibtex 33591 +0}
+
+(3)(+0000000): {better-bibtex 33592 +0}
+
+(3)(+0000000): {better-bibtex 33593 +0}
+
+(3)(+0000000): {better-bibtex 33594 +0}
+
+(3)(+0000000): {better-bibtex 33595 +0}
+
+(3)(+0000000): {better-bibtex 33596 +0}
+
+(3)(+0000000): {better-bibtex 33597 +0}
+
+(3)(+0000000): {better-bibtex 33598 +0}
+
+(3)(+0000000): {better-bibtex 33599 +0}
+
+(3)(+0000002): {better-bibtex 33600 +2}
+
+(3)(+0000000): {better-bibtex 33601 +0}
+
+(3)(+0000000): {better-bibtex 33602 +0}
+
+(3)(+0000000): {better-bibtex 33603 +0}
+
+(3)(+0000000): {better-bibtex 33604 +0}
+
+(3)(+0000000): {better-bibtex 33605 +0}
+
+(3)(+0000000): {better-bibtex 33606 +0}
+
+(3)(+0000000): {better-bibtex 33607 +0}
+
+(3)(+0001130): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000002): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): {better-bibtex 33608 +1138}
+
+(3)(+0000006): {better-bibtex 33609 +6}
+
+(3)(+0000000): {better-bibtex 33610 +0}
+
+(3)(+0000000): {better-bibtex 33611 +0}
+
+(3)(+0000000): {better-bibtex 33612 +0}
+
+(3)(+0000002): {better-bibtex 33613 +2}
+
+(3)(+0000000): {better-bibtex 33614 +0}
+
+(3)(+0000000): {better-bibtex 33615 +0}
+
+(3)(+0000000): {better-bibtex 33616 +0}
+
+(3)(+0000000): {better-bibtex 33617 +0}
+
+(3)(+0000000): {better-bibtex 33618 +0}
+
+(3)(+0000000): {better-bibtex 33619 +0}
+
+(3)(+0000000): {better-bibtex 33620 +0}
+
+(3)(+0000000): {better-bibtex 33621 +0}
+
+(3)(+0000000): {better-bibtex 33622 +0}
+
+(3)(+0000000): {better-bibtex 33623 +0}
+
+(3)(+0000000): {better-bibtex 33624 +0}
+
+(3)(+0000000): {better-bibtex 33625 +0}
+
+(3)(+0000000): {better-bibtex 33626 +0}
+
+(3)(+0000834): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000002): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 33627 +840}
+
+(3)(+0000004): {better-bibtex 33628 +4}
+
+(3)(+0000000): {better-bibtex 33629 +0}
+
+(3)(+0000000): {better-bibtex 33630 +0}
+
+(3)(+0000000): {better-bibtex 33631 +0}
+
+(3)(+0000002): {better-bibtex 33632 +2}
+
+(3)(+0000000): {better-bibtex 33633 +0}
+
+(3)(+0000000): {better-bibtex 33634 +0}
+
+(3)(+0000000): {better-bibtex 33635 +0}
+
+(3)(+0000000): {better-bibtex 33636 +0}
+
+(3)(+0000000): {better-bibtex 33637 +0}
+
+(3)(+0000000): {better-bibtex 33638 +0}
+
+(3)(+0000000): {better-bibtex 33639 +0}
+
+(3)(+0000000): {better-bibtex 33640 +0}
+
+(3)(+0000000): {better-bibtex 33641 +0}
+
+(3)(+0000000): {better-bibtex 33642 +0}
+
+(3)(+0000000): {better-bibtex 33643 +0}
+
+(3)(+0000000): {better-bibtex 33644 +0}
+
+(3)(+0000000): {better-bibtex 33645 +0}
+
+(3)(+0000988): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000002): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 33646 +994}
+
+(3)(+0000006): {better-bibtex 33647 +4}
+
+(3)(+0000000): {better-bibtex 33648 +2}
+
+(3)(+0000000): {better-bibtex 33649 +0}
+
+(3)(+0000000): {better-bibtex 33650 +0}
+
+(3)(+0000000): {better-bibtex 33651 +0}
+
+(3)(+0000000): {better-bibtex 33652 +0}
+
+(3)(+0000000): {better-bibtex 33653 +0}
+
+(3)(+0000000): {better-bibtex 33654 +0}
+
+(3)(+0000000): {better-bibtex 33655 +0}
+
+(3)(+0000000): {better-bibtex 33656 +0}
+
+(3)(+0000000): {better-bibtex 33657 +0}
+
+(3)(+0000000): {better-bibtex 33658 +0}
+
+(3)(+0000000): {better-bibtex 33659 +0}
+
+(3)(+0000000): {better-bibtex 33660 +0}
+
+(3)(+0000000): {better-bibtex 33661 +0}
+
+(3)(+0000000): {better-bibtex 33662 +0}
+
+(3)(+0000002): {better-bibtex 33663 +2}
+
+(3)(+0000000): {better-bibtex 33664 +0}
+
+(3)(+0000986): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): {better-bibtex 33665 +992}
+
+(3)(+0000006): {better-bibtex 33666 +6}
+
+(3)(+0000000): {better-bibtex 33667 +0}
+
+(3)(+0000000): {better-bibtex 33668 +0}
+
+(3)(+0000000): {better-bibtex 33669 +0}
+
+(3)(+0000000): {better-bibtex 33670 +0}
+
+(3)(+0000000): {better-bibtex 33671 +0}
+
+(3)(+0000000): {better-bibtex 33672 +0}
+
+(3)(+0000000): {better-bibtex 33673 +0}
+
+(3)(+0000002): {better-bibtex 33674 +2}
+
+(3)(+0000000): {better-bibtex 33675 +0}
+
+(3)(+0000000): {better-bibtex 33676 +0}
+
+(3)(+0000000): {better-bibtex 33677 +0}
+
+(3)(+0000000): {better-bibtex 33678 +0}
+
+(3)(+0000000): {better-bibtex 33679 +0}
+
+(3)(+0000000): {better-bibtex 33680 +0}
+
+(3)(+0000000): {better-bibtex 33681 +0}
+
+(3)(+0000000): {better-bibtex 33682 +0}
+
+(3)(+0000000): {better-bibtex 33683 +0}
+
+(3)(+0000986): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): {better-bibtex 33684 +992}
+
+(3)(+0000004): {better-bibtex 33685 +4}
+
+(3)(+0000000): {better-bibtex 33686 +0}
+
+(3)(+0000000): {better-bibtex 33687 +0}
+
+(3)(+0000000): {better-bibtex 33688 +0}
+
+(3)(+0000000): {better-bibtex 33689 +0}
+
+(3)(+0000002): {better-bibtex 33690 +2}
+
+(3)(+0000000): {better-bibtex 33691 +0}
+
+(3)(+0000000): {better-bibtex 33692 +0}
+
+(3)(+0000000): {better-bibtex 33693 +0}
+
+(3)(+0000000): {better-bibtex 33694 +0}
+
+(3)(+0000000): {better-bibtex 33695 +0}
+
+(3)(+0000000): {better-bibtex 33696 +0}
+
+(3)(+0000000): {better-bibtex 33697 +0}
+
+(3)(+0000000): {better-bibtex 33698 +0}
+
+(3)(+0000000): {better-bibtex 33699 +0}
+
+(3)(+0000000): {better-bibtex 33700 +0}
+
+(3)(+0000002): {better-bibtex 33701 +2}
+
+(3)(+0000000): {better-bibtex 33702 +0}
+
+(3)(+0000986): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(2)(+0000000): WARNING: Zotero.Collection.prototype.parent has been
+deprecated -- use .parentID or .parentKey
+
+(3)(+0000002): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000000): Zotero.Libraries.getName() is deprecated. Use
+Zotero.Library.prototype.name instead
+
+(3)(+0000002): {better-bibtex 33703 +992}
+
+(3)(+0000004): {better-bibtex 33704 +4}
+
+(3)(+0000000): {better-bibtex 33705 +0}
+
+(3)(+0000000): {better-bibtex 33706 +0}
+
+(3)(+0000000): {better-bibtex 33707 +0}
+
+(3)(+0000000): {better-bibtex 33708 +0}
+
+(3)(+0000000): {better-bibtex 33709 +0}
+
+(3)(+0000000): {better-bibtex 33710 +0}
+
+(3)(+0000002): {better-bibtex 33711 +2}
+
+(3)(+0000000): {better-bibtex 33712 +0}
+
+(3)(+0000000): {better-bibtex 33713 +0}
+
+(3)(+0000000): {better-bibtex 33714 +0}
+
+(3)(+0000000): {better-bibtex 33715 +0}
+
+(3)(+0000000): {better-bibtex 33716 +0}
+
+(3)(+0000000): {better-bibtex 33717 +0}
+
+(3)(+0000000): {better-bibtex 33718 +0}
+
+(3)(+0000000): {better-bibtex 33719 +0}
+
+(3)(+0000000): {better-bibtex 33720 +0}
+
+(3)(+0000000): {better-bibtex 33721 +0}
+
